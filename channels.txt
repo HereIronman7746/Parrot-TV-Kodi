@@ -1,0 +1,6 @@
+name= Nova url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u" logo= "http://img.cz.prg.cmestatic.com/media/images/600x338/Jan2012/929462.jpg?d41d"
+
+name= Nova 2 url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/3/34/Nova_2_logo-600x207.png"
+
+name= Nova Gold url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png"
+
