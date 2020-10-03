@@ -1,4 +1,4 @@
-name= Currently not supported url= logo= 
+name= JoJ url= http://nn2.joj.sk/hls/joj-720.m3u8 logo= https://www.bing.com/images/search?view=detailV2&ccid=NtSiKRjg&id=0A887496D3D5EDB72DEAFC1E31269E0211674BE4&thid=OIP.NtSiKRjgxq9CMZReQmyQqgHaJO&mediaurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F83%2FJoj_logo_2015.jpg&exph=685&expw=550&q=JoJ&simid=608015439231847608&ck=26AD518F8681847F35D02368CE62C80D&selectedindex=0&form=EX0023&pc=U316&adlt=demote&shtp=GetUrl&shid=18a179ad-275b-4b71-a856-f09d3f24e0f9&shtk=VFYgSk9KIOKAkyBXaWtpcGVkaWU%3D&shdk=Rm91bmQgb24gQmluZyBmcm9tIGNzLndpa2lwZWRpYS5vcmc%3D&shhk=%2Bp4Bp3Y82pm5UBbCiXf%2BvoI2TZAb2c8lFoZPH76GE8M%3D&shth=OSH.ixA0XvIz6fdSY7YPrsMt1g  
 
 
 
