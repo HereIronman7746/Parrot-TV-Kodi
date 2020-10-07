@@ -8,4 +8,7 @@ name= Nova Action url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_av
 
 name= Nova Cinema url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8" logo= "https://www.o2tv.cz/assets/images/tv-logos/original/nova-cinema.png"
 
+name= JoJ Family url= "https://nn.geo.joj.sk/hls/family-360.m3u8" logo= "https://cs.m.wikipedia.org/wiki/JOJ_Family#/media/Soubor%3AJOJ_Family_logo.png"
+
+
  
