@@ -4,3 +4,8 @@ name= Nova 2 url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlis
 
 name= Nova Gold url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png"
 
+name= Nova Action url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8" logo= "http://img.ihned.cz/attachment.php/750/66738750/B4oQdsLRE7u1h0pIJnvxrKAF9SNm2zUc/1280x720xc141/logo-stanice-nova-action-drive-fanda-2017.png"
+
+name= Nova Cinema url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8" logo= "https://www.o2tv.cz/assets/images/tv-logos/original/nova-cinema.png"
+
+ 
