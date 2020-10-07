@@ -1,6 +1,6 @@
 name= JoJ url= "http://nn2.joj.sk/hls/joj-720.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/8/83/Joj_logo_2015.jpg"
 
-name= JoJ Plus URL= "http://nn2.joj.sk/hls/jojplus-540.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/3/39/TV_JOJ_Plus_logo.jpg"
+name= JoJ Plus url= "http://nn2.joj.sk/hls/jojplus-540.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/3/39/TV_JOJ_Plus_logo.jpg"
 
 
 
