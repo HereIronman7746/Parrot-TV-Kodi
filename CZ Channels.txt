@@ -1,14 +1,14 @@
-name= Nova url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u" logo= "http://img.cz.prg.cmestatic.com/media/images/600x338/Jan2012/929462.jpg?d41d"
+name= Nova url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u" logo= "http://parrotrepo.000webhostapp.com/TVicons/Nova.jpg"
 
-name= Nova 2 url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/3/34/Nova_2_logo-600x207.png"
+name= Nova 2 url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Nova_2.png"
 
-name= Nova Gold url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8" logo= "https://upload.wikimedia.org/wikipedia/commons/7/7f/Nova_Gold_logo.png"
+name= Nova Gold url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Nova_Gold.png"
 
-name= Nova Action url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8" logo= "http://img.ihned.cz/attachment.php/750/66738750/B4oQdsLRE7u1h0pIJnvxrKAF9SNm2zUc/1280x720xc141/logo-stanice-nova-action-drive-fanda-2017.png"
+name= Nova Action url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Nova_Action.png"
 
-name= Nova Cinema url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8" logo= "https://www.o2tv.cz/assets/images/tv-logos/original/nova-cinema.png"
+name= Nova Cinema url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Nova_Cinema.png"
 
-name= JoJ Family url= "https://nn.geo.joj.sk/hls/family-360.m3u8" logo= "https://cs.m.wikipedia.org/wiki/JOJ_Family#/media/Soubor%3AJOJ_Family_logo.png"
+name= JoJ Family url= "https://nn.geo.joj.sk/hls/family-360.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/JOJ_Family_Cz.png"
 
 
  
