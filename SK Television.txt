@@ -6,7 +6,7 @@ name= Fashion TV url= "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?flu
 
 name= JoJ Family url= "http://nn.geo.joj.sk/hls/family-360.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/JOJ_Family.png"
 
-name= TV Lux" url= "http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/TV_Lux.png"
+name= TV Lux url= "http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/TV_Lux.png"
 
 name= Senzi TV url= "http://109.74.144.130/live/senzitest/playlist.m3u8?" logo= "http://parrotrepo.000webhostapp.com/TVicons/Senzi.jpg"
 
