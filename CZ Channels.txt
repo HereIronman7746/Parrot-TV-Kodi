@@ -10,5 +10,25 @@ name= Nova Cinema url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_av
 
 name= JoJ Family url= "https://nn.geo.joj.sk/hls/family-360.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/JOJ_Family.png"
 
+name= Elektrika TV url= "http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Elektrika_TV.png"
+
+name= Óčko url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/%c3%93%c4%8dko.png"
+
+name= Óčko Gold url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/%c3%93%c4%8dko%20Gold.jpg"
+
+name= Polar TV url= "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Polar_TV.png"
+
+name= Prima Cool url= "http://92.62.234.223/104/mystream.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Prima_Cool.png"
+
+name= Prima Love url= "http://92.62.234.223/101/mystream.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Prima_Love.jpg"
+
+name= Retro url= "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Retro_TV.png"
+
+name= Šlágr url= "https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Slagr_TV.jpg"
+
+name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "http://parrotrepo.000webhostapp.com/TVicons/Slagr_2.jpg"
+
+name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo="http://parrotrepo.000webhostapp.com/TVicons/TV_Natura.jpg"
+
 
  
