@@ -2,7 +2,7 @@ name= Nova url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cz
 
 name= Nova 2 url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Nova_2.png"
 
-name= Nova Gold url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Nova_Gold.png"
+name= Nova Gold url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Nova_Gold.png"
 
 name= Nova Action url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Nova_Action.png"
 
