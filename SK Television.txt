@@ -2,11 +2,15 @@ name= JoJ url= "http://nn2.joj.sk/hls/joj-720.m3u8" logo= "http://parrotrepo.000
 
 name= JoJ Plus url= "http://nn2.joj.sk/hls/jojplus-540.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/JOJ_Plus.jpg"
 
+name= JoJ Family url= "http://nn.geo.joj.sk/hls/family-360.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/JOJ_Family.png"
+
 name= Markíza url= "https://s2-h1-s6.c.markiza.sk/hls/hls/markiza-w-2.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Markiza.png"
+
+name= Dajto url= "https://s2-h1-s6.c.markiza.sk/hls/hls/dajtoSD-w-2.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Dajto.png"
 
 name= Fashion TV url= "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Fashion_TV.png"
 
-name= JoJ Family url= "http://nn.geo.joj.sk/hls/family-360.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/JOJ_Family.png"
+name= Wau url= "https://nn.geo.joj.sk/live/wau-index.m3u8?fluxustv.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Wau.jpg"
 
 name= TV Lux url= "http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/TV_Lux.png"
 
@@ -16,6 +20,6 @@ name= Televizia OSEM url= "http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/pla
 
 name= TV Raj url= "http://ottst05.flexitv.sk/2827-tv-pc.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/TV_Raj.png"
 
-name= Wau url= "https://nn.geo.joj.sk/live/wau-index.m3u8?fluxustv.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/Wau.jpg"
+
 
 
