@@ -1,1 +1,1 @@
-
+name= Bloodshot url= "http://parrotrepo.000webhostapp.com/Movies/Bloodshot.m3u8" logo= ""
