@@ -1,1 +1,1 @@
-name= Avengers Endgame url= "http://parrotrepo.000webhostapp.com/PVR/avengersendgame.m3u" logo= "http://parrotrepo.000webhostapp.com/TVicons/Nova.jpg"
+
