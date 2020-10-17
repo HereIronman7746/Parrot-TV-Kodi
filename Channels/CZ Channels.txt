@@ -45,7 +45,7 @@ name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "http://parrotrepo.
 
 name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/TV_Natura.jpg"
 
-name= Mode 2 url= "http://parrotrepo.000webhostapp.com/Parrot%20TV/index.m3u" logo= ""
+name= Mode 2 url= "http://parrotrepo.000webhostapp.com/Parrot%20TV/index.m3u" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/ct2.jpg"
 
 
 
