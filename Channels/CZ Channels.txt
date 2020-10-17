@@ -8,6 +8,10 @@ name= Nova Action url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_av
 
 name= Nova Cinema url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Cinema.png"
 
+name= Nova Sport 1 HD url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18302" logo= ""
+
+name= Nova Sport 2 FHD url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18301" logo= ""
+
 name= JoJ Family url= "https://nn.geo.joj.sk/hls/family-360.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/JOJ_Family.png"
 
 name= Elektrika TV url= "http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Elektrika_TV.png"
@@ -15,6 +19,10 @@ name= Elektrika TV url= "http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u
 name= Óčko url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/%c3%93%c4%8dko.png"
 
 name= Óčko Gold url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/%c3%93%c4%8dko%20Gold.jpg"
+
+name= Óčko Expres url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8" logo= ""
+
+name= Óčko STAR url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8" logo= ""
 
 name= Polar TV url= "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Polar_TV.png"
 
