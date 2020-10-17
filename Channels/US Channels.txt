@@ -1,5 +1,5 @@
 name= CBS News url= "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/CBS_News.png"
-name Fox News Radio url= "http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Fox_News_Radio.png"
+name= Fox News Radio url= "http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Fox_News_Radio.png"
 name= Nick Radio url= "http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8 logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Nick_Radio.png"
 name= Voice Of America url= "http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Voce_Of_America.jpg"
 name= Bowie TV url= "http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Bowie_TV.png"
