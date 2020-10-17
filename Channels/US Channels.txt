@@ -9,7 +9,7 @@ name= Key TV url= "http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w36
 name= Kool TV url= "http://173.199.158.79:1935/roku/myStream/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Kool_TV.jpg"
 name= Lite FM url= "http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/LiteFM.jpg"
 name= MLB Network url= "http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/MLB_Network.jpg"
-name= Red Bull TV url= "http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Red_Bull_TV.png"
+name= Red Bull TV url= "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Red_Bull_TV.png"
 name= Weather Channel url= "http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Weather_Channel_.png"
 name= Z100 New York url= "http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Z100_New_York.jpg"
 name= iHeart 80s [Radio] url= http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8 logo= "http://parrotrepo.000webhostapp.com/TVicons/US/iHeart.jpg"
