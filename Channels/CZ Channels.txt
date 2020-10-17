@@ -8,19 +8,11 @@ name= Nova Action url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_av
 
 name= Nova Cinema url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Cinema.png"
 
-name= Nova International url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122405" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_I.png"
-
-name= Nova Sport 1 HD url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18302" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova%20sport.jpg"
-
-name= Nova Sport 2 FHD url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18301" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Sport_2.png"
-
 name= JoJ Family url= "https://nn.geo.joj.sk/hls/family-360.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/JOJ_Family.png"
 
 name= JoJ url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122421" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/JOJ.jpg"
 
 name= JoJ Plus url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122412" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/JOJ_Plus.jpg"
-
-name= Wau HD url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122423" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Wau.jpg"
 
 name= Elektrika TV url= "http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Elektrika_TV.png"
 
@@ -35,7 +27,6 @@ name= Prima url= "http://83.167.253.110:5000/live/prima_hd/playlist.m3u8" logo= 
 name= Prima Cool url= "http://92.62.234.223/104/mystream.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Prima_Cool.png"
 
 name= Prima Love url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122410" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Prima_Love.jpg"
-
 
 name= Retro url= "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Retro_TV.png"
 
