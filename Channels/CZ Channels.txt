@@ -1,34 +1,34 @@
-name= Nova url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8" logo= "https://i.ibb.co/n0p1nRG/Nova.jpg"
+name= Nova url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova.jpg"
 
-name= Nova 2 url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8" logo= "https://i.ibb.co/ZTTN1JX/Nova-2.png"
+name= Nova 2 url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_2.png"
 
-name= Nova Gold url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8" logo= "https://i.ibb.co/TcQ9PQS/Nova-Gold.png"
+name= Nova Gold url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Gold.png"
 
-name= Nova Action url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8" logo= "https://i.ibb.co/C6HZ5Dh/Nova-Action.png"
+name= Nova Action url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Action.png"
 
-name= Nova Cinema url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8" logo= "https://i.ibb.co/BHMMTNT/Nova-Cinema.png"
+name= Nova Cinema url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Cinema.png"
 
-name= JoJ Family url= "https://nn.geo.joj.sk/hls/family-360.m3u8" logo= "https://i.ibb.co/NsWT5SB/JOJ-Family.png"
+name= JoJ Family url= "https://nn.geo.joj.sk/hls/family-360.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/JOJ_Family.png"
 
-name= Elektrika TV url= "http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8" logo= "https://i.ibb.co/zJQLQ8J/Elektrika-TV.jpg"
+name= Elektrika TV url= "http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Elektrika_TV.png"
 
-name= Óčko url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8" logo= "https://i.ibb.co/jbmpst7/ko.png"
+name= Óčko url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/%c3%93%c4%8dko.png"
 
-name= Óčko Gold url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8" logo= "https://i.ibb.co/Qnwxbj4/ko-Gold.jpg"
+name= Óčko Gold url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/%c3%93%c4%8dko%20Gold.jpg"
 
-name= Polar TV url= "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8" logo= "https://i.ibb.co/pRPSLQv/Polar-TV.png"
+name= Polar TV url= "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Polar_TV.png"
 
-name= Prima Cool url= "http://92.62.234.223/104/mystream.m3u8" logo= "https://i.ibb.co/qd5trzR/Prima-Cool.png"
+name= Prima Cool url= "http://92.62.234.223/104/mystream.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Prima_Cool.png"
 
-name= Prima Love url= "http://92.62.234.223/101/mystream.m3u8" logo= "https://i.ibb.co/KWrC5MB/Prima-Love.jpg"
+name= Prima Love url= "http://92.62.234.223/101/mystream.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Prima_Love.jpg"
 
-name= Retro url= "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" logo= "https://i.ibb.co/vwZhwnJ/Retro-TV.png"
+name= Retro url= "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Retro_TV.png"
 
-name= Šlágr url= "https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8" logo= "https://i.ibb.co/1v1ScqG/Slagr-TV.jpg"
+name= Šlágr url= "https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Slagr_TV.jpg"
 
-name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "https://i.ibb.co/RpxVS46/Slagr-2.jpg"
+name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Slagr_2.jpg"
 
-name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "https://i.ibb.co/0Jc1TTy/TV-Natura.jpg"
+name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/TV_Natura.jpg"
 
 
  
