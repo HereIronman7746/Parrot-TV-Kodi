@@ -10,10 +10,6 @@ name= Nova Cinema url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_av
 
 name= JoJ Family url= "https://nn.geo.joj.sk/hls/family-360.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/JOJ_Family.png"
 
-name= JoJ url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122421" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/JOJ.jpg"
-
-name= JoJ Plus url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122412" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/JOJ_Plus.jpg"
-
 name= Elektrika TV url= "http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Elektrika_TV.png"
 
 name= Óčko url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/%c3%93%c4%8dko.png"
@@ -21,8 +17,6 @@ name= Óčko url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8" 
 name= Óčko Gold url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/%c3%93%c4%8dko%20Gold.jpg"
 
 name= Polar TV url= "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Polar_TV.png"
-
-name= Prima url= "http://83.167.253.110:5000/live/prima_hd/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/prima.jpg"
 
 name= Prima Cool url= "http://92.62.234.223/104/mystream.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Prima_Cool.png"
 
@@ -36,7 +30,7 @@ name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "http://parrotrepo.
 
 name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/TV_Natura.jpg"
 
-name= Mode url= "http://parrotrepo.000webhostapp.com/Parrot%20TV/index.m3u" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/ct2.jpg"
+name= Mode url= "https://dailyiptvlist.com/dl/cz-m3uplaylist-2020-10-16-2.m3u" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/ct2.jpg"
 
 
 
