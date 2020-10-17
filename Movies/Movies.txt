@@ -6,7 +6,5 @@ name= Vyproštění / Extraction [2020] [CZ] url= "https://degoo-production-larg
 
 name= Hitman Agent 47 [2015] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChSNzxej0HvEu1JL1tgtcAl88t1QGhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603558208&Signature=iwBLAMCHNWIk%2FUks5Z1dCAA4xC0%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Hitman_Agent_47.jpg"
 
-name= Scoob! [2020] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/-qC5DA/avi/ChTXPoMDM_AGv6-SwAgsal4Xjp407BAA.avi?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603561535&Signature=nA4MosBfxBYWOX%2BhDCKYzErtSm8%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg
-
-name= Scooby Doo a Kráľ Škriatkov  [2008] [SK] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/-qC5DA/avi/ChTXPoMDM_AGv6-SwAgsal4Xjp407BAA.avi?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603561535&Signature=nA4MosBfxBYWOX%2BhDCKYzErtSm8%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SD_Goblin_King.jpg"
+name= Scoob! [2020] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/-qC5DA/avi/ChTXPoMDM_AGv6-SwAgsal4Xjp407BAA.avi?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603561535&Signature=nA4MosBfxBYWOX%2BhDCKYzErtSm8%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg"
 
