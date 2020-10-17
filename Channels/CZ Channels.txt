@@ -68,7 +68,7 @@ name= HBO HD url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18320
 
 name= HBO 2 HD url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18319" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbo%202.jpg"
 
-name= HBO 3 url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18318" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbo%203.jpg"
+name= HBO 3 url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122387?checkedby:hlscat.com" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbo%203.jpg"
 
 name= AXN url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18338" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/axn.jpg"
 
