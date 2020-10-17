@@ -58,4 +58,82 @@ name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "http://parrotrepo.
 
 name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/TV_Natura.jpg"
 
+name= JimJam url= "http://83.167.253.110:5000/live/jimjam/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/jim.jpg"
+
+name= Praha TV url= "https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/praha.jpg"
+
+name= RTM Plus url= "http://www.rtmplus.cz/live/1-playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/rtm.jpg"
+
+name= HBO HD url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18320" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbohd.jpg"
+
+name= HBO 2 HD url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18319" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbo%202.jpg"
+
+name= HBO 3 url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18318" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbo%203.jpg"
+
+name= AXN url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18338" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/axn.jpg"
+
+name= Boomerang url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18337" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/boomerang.jpg"
+
+name= CT 1 url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18335" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/ct1.jpg"
+
+name= CT 2 url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18334" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/ct2.jpg"
+
+name= CT 24 url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18333" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/ct24.jpg"
+
+name= CT 4 / Sport url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18332" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/ct%20sport.jpg"
+
+name= Discovery url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18331" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Discovery.jpg"
+
+name= Disney url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18330" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/disney.jpg"
+
+name= Duck TV url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18329" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/duck%20tv.jpg"
+
+name= Enternament CZ url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18328" logo= "Not Found"
+
+name= Film Plus CZ url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18326" logo= "Not found"
+
+name= FilmBox Family url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18325" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/filbox%20family.jpg"
+
+name= FilmBox Plus url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18324" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/filmboxplus.jpg"
+
+name= FilmBox Premium url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18323" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/filmbox%20premium.jpg"
+
+name= Fishing And Hunting url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18322" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/f&h.jpg"
+
+name= History FHD url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18317" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/history.jpg"
+
+name= Kino Svet url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18315" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/kinosvet.jpg"
+
+name= Markiza CZ url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18314" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Markiza.png"
+
+name= Minimax url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/1831" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/minimax.jpg"
+
+name= Nat Geo HD url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18310" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/natgeo.jpg"
+
+name= Nat Geo Wild HD url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18309" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/nat%20geo%20wild.jpg"
+
+name= SMICHOV url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18297" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/smichov.jpg"
+
+name= REBEL CZ url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18300" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/rebel.jpg"
+
+name= RELAX CZ url= "http://tv.turksmartiptv.com:15000/NfU7f6FW2u/zZmIB3NXHe/18299" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/relax.jpg"
+
+name= Animal Planet url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122364" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/animal%20planet.jpg"
+
+name= Barrandov HD url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122367" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/barrandov.jpg"
+
+name= Dajto HD url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122374" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Dajto.png"
+
+name= Discovery Science url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122375" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/discovery%20science.jpg"
+
+name= DOMA HD url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122376" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/doma.jpg"
+
+name= DOMA Premiera url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122377" logo= "Not Found"
+
+name= Nick url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122400" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/nick.jpg"
+
+name= Noe url= "http://istars.pro:80/Pr991153756624m/tRdwVMzpXK/122401" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/noe.jpg"
+
+
+
 
