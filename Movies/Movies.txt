@@ -4,7 +4,7 @@ name= BloodShot [2020] [CZ] url= "https://degoo-production-large-file-us-east1.d
 
 name= Vyproštění / Extraction [2020] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChRF4NcweqxZz9FKKQoWwANPwx5iDhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603558123&Signature=4ih9UULrNoTO8T686q4%2FeBhlGH0%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Extraction.jpg"
 
-name= Hitman Agent 47 [2015] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChSNzxej0HvEu1JL1tgtcAl88t1QGhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603558208&Signature=iwBLAMCHNWIk%2FUks5Z1dCAA4xC0%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Hitman_Agent_47.jpg"
+name= Hitman Agent 47 [2015] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChRgOw6rfRTZ5GQOwyME5A8FpR_XshAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603608949&Signature=NngU8gdx3JsR9Giq9kK34yPIkEU%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Hitman_Agent_47.jpg"
 
 name= Scoob! [2020] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/-qC5DA/avi/ChTXPoMDM_AGv6-SwAgsal4Xjp407BAA.avi?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603561535&Signature=nA4MosBfxBYWOX%2BhDCKYzErtSm8%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg"
 
