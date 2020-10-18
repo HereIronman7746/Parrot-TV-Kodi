@@ -1,3 +1,8 @@
 #EXTM3U
 #EXTINF:-1,SK| S01
 https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/m3u8%20list/co%20noveho%20scooby%20doo/s01/s01.m3u
+
+#EXTINF:-1,SD| Test
+hrrpasashcia:suyi.c
+
+
