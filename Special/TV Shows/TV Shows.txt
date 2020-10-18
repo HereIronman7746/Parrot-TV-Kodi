@@ -1,1 +1,1 @@
-name= 
+name= Co nového Scoobz Doo url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/m3u8%20list/co%20noveho%20scooby%20doo/co%20noveho%20scooby%20doo.m3u" logo= "g"
