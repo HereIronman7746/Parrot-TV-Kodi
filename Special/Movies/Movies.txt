@@ -6,7 +6,9 @@ name= Vyproštění / Extraction [2020] [CZ] url= "https://degoo-production-larg
 
 name= Hitman Agent 47 [2015] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChRgOw6rfRTZ5GQOwyME5A8FpR_XshAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603609473&Signature=ws1fdL0xKuzEfnOLSIP47UCFFT0%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Hitman_Agent_47.jpg"
 
-name= Scoob! [2020] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/-qC5DA/avi/ChTXPoMDM_AGv6-SwAgsal4Xjp407BAA.avi?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603561535&Signature=nA4MosBfxBYWOX%2BhDCKYzErtSm8%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg"
+name= Scoob! [2020] [CZ] [720p] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/-qC5DA/avi/ChTXPoMDM_AGv6-SwAgsal4Xjp407BAA.avi?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603561535&Signature=nA4MosBfxBYWOX%2BhDCKYzErtSm8%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg"
+
+name= Scoob! [2020] [CZ] [1080p] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/-aDxDA/mkv/ChQvNVBmqEDQaXEBcQEfhqPWc-miJRAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603723795&Signature=P2fzHv7F7OEeDdiR8XTxM3GuvZk%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg"
 
 name= Piráti z Karibiku 5 [2017] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChSWeA4x2zKNRgjNy7k2ipXlce7MDxAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603562261&Signature=KoNd%2FKIOilZfHdekgkJww0DJGrY%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Pirates_Of_Caribbean_5.jpg"
 
