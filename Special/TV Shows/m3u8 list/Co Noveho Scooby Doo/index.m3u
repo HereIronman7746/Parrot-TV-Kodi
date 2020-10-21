@@ -41,6 +41,6 @@ https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/o6i5DA/mp4/ChSuytdW
 #EXTINF:-1,S01E14
 https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/o6i5DA/mp4/ChRVt6NIiwo_vPD13wthJnuo_RwtkRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1604330023&Signature=%2FUEQdwSvS%2FeAvocthZTR28fZCBE%3D&ngsw-bypass=1
 
-#EXTINF:-1 tvg-logo="http://parrotrepo.000webhostapp.com/TV%20Shows/Are%20You%20Afraid%20Of%20The%20Dark%3f/Are_You_Afraid_Of_The_Dark.jpg", ESPN
-http://yourchannelurl.m3u
+#EXTINF:-1 tvg-id="I133.39368464.microsoft.com" tvg-logo="http://parrotrepo.000webhostapp.com/TV%20Shows/Are%20You%20Afraid%20Of%20The%20Dark%3f/Are_You_Afraid_Of_The_Dark.jpg" group-title="USA",Create
+http://192.168.1.5:5004/auto/v133/
 
