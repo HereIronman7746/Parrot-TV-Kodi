@@ -1,1 +1,3 @@
 name= Co nového Scooby Doo? url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/m3u8%20list/co%20noveho%20scooby%20doo/co%20noveho%20scooby%20doo.m3u" logo= "g"
+
+name= Are You Afraid Of The Dark? [2019] url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/m3u8%20list/Are%20You%20Afraid%20Of%20The%20Dark%202019/index.m3u" logo= "g"
