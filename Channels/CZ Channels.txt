@@ -26,6 +26,10 @@ name= Prima url= "http://83.167.253.110:5000/live/prima_hd/playlist.m3u8" logo= 
 
 name= Prima Cool url= "http://92.62.234.223/104/mystream.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Prima_Cool.png"
 
+name= Prima Love url= "http://92.62.234.223/101/mystream.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Prima_Love.jpg"
+
+name= Prima MAX url= "http://70.32.0.9:5000/live/518/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/max.jpg"
+
 name= Retro url= "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Retro_TV.png"
 
 name= Šlágr url= "https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Slagr_TV.jpg"
