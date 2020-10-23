@@ -4,8 +4,6 @@ name= JoJ Plus url= "http://nn2.joj.sk/hls/jojplus-540.m3u8" logo= "http://parro
 
 name= JoJ Family url= "http://nn.geo.joj.sk/hls/family-360.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/SK/JOJ_Family.png"
 
-name= Markíza url= "https://s2-h1-s6.c.markiza.sk/hls/hls/markiza-w-2.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/SK/Markiza.png"
-
 name= Dajto url= "https://s2-h1-s6.c.markiza.sk/hls/hls/dajtoSD-w-2.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/SK/Dajto.png"
 
 name= Fashion TV url= "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/SK/Fashion_TV.png"
