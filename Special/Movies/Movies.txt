@@ -2,6 +2,10 @@ name= BloodShot [2020] [CZ] url= "https://s-delivery17.mxdcontent.net/v/55eb2733
 
 name= Scoob! [2020] [CZ] url= "https://s-delivery28.mxdcontent.net/v/206379861ff356f7625a775721c34145.mp4?s=ZV1HrmTPqIubsEaO4CNh-Q&e=1603741624&_t=1603728767" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg"
 
-name= Scooby Doo V Tábore [2010 [CZ] url= "https://s-delivery29.mxdcontent.net/v/37fb34465371ad285b96020b3cb81c08.mp4?s=fRs9IaWtg3juhG94ZGK_Pg&e=1603741566&_t=1603725879" logo= "Not Found"
+name= Scooby-Doo V Tábore [2010] [CZ] url= "https://s-delivery29.mxdcontent.net/v/37fb34465371ad285b96020b3cb81c08.mp4?s=fRs9IaWtg3juhG94ZGK_Pg&e=1603741566&_t=1603725879" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SD_Camp_Scare.jpg"
+
+name= Scooby-Doo Tréma Před Vystoupením [2013] [CZ] url= "https://s-delivery14.mxdcontent.net/v/8a79234ace50d54e337a9e539c2a532c.mp4?s=i6DnhJHCBZ8qPYCGVxFxFg&e=1603748417&_t=1603732235" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SD_Stage_Fright.jpg"
+
+name= Scooby-Doo Wrestlemania Mystery [2014] [CZ] url= "https://s-delivery29.mxdcontent.net/v/b2dfdf17caabb70b0c8ff2fe009bf1a6.mp4?s=Rp29FoNtW7tpq5VkPKXcmA&e=1603748147&_t=1603728312" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SD_Wrestlemania_Mystery.jpg"
 
 
