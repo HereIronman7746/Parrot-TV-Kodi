@@ -1,6 +1,6 @@
 name= John Wick 3 [2019] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChQ3Qw5ckaPQJnltoxdIL9zMxIXVHhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603558269&Signature=rbMSENFVj4oWl4VGAE%2F42JfxHb4%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/John_Wick_3.jpg"
 
-name= BloodShot [2020] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChSNzxej0HvEu1JL1tgtcAl88t1QGhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603558208&Signature=iwBLAMCHNWIk%2FUks5Z1dCAA4xC0%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/BloodShot.jpg"
+name= BloodShot [2020] [CZ] url= "https://s-delivery17.mxdcontent.net/v/55eb273336931ddcb38d3e6b5797c7e2.mp4?s=KZhRFvfxVG7MNTDaXOv7RQ&e=1603740399&_t=1603719096" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/BloodShot.jpg"
 
 name= Vyproštění / Extraction [2020] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChRF4NcweqxZz9FKKQoWwANPwx5iDhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603558123&Signature=4ih9UULrNoTO8T686q4%2FeBhlGH0%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Extraction.jpg"
 
