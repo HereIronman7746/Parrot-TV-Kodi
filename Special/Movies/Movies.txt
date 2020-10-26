@@ -1,5 +1,7 @@
 name= BloodShot [2020] [CZ] url= "https://s-delivery17.mxdcontent.net/v/55eb273336931ddcb38d3e6b5797c7e2.mp4?s=KZhRFvfxVG7MNTDaXOv7RQ&e=1603740399&_t=1603719096" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/BloodShot.jpg"
 
+name= Kalašnikov [2020] [EN] url= "https://s-delivery20.mxdcontent.net/v/59fa0a0615216e980ddc16beeb4d55a8.mp4?s=IqWgZV9_KMnqa8XoCNXMhg&e=1603749259&_t=1603732740" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Kalashnikov.jpg"
+
 name= Scoob! [2020] [CZ] url= "https://s-delivery28.mxdcontent.net/v/206379861ff356f7625a775721c34145.mp4?s=ZV1HrmTPqIubsEaO4CNh-Q&e=1603741624&_t=1603728767" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg"
 
 name= Scooby-Doo V Tábore [2010] [CZ] url= "https://s-delivery29.mxdcontent.net/v/37fb34465371ad285b96020b3cb81c08.mp4?s=fRs9IaWtg3juhG94ZGK_Pg&e=1603741566&_t=1603725879" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SD_Camp_Scare.jpg"
