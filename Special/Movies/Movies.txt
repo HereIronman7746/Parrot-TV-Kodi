@@ -6,7 +6,7 @@ name= Deadpoool 2 [2018] [CZ] url= "https://s-delivery29.mxdcontent.net/v/4339ac
 
 name= Jumanji: Ďalší Level [2019] [CZ] url= "https://s-delivery21.mxdcontent.net/v/fc6a0ef21e72fb16b55a29379fbfaecf.mp4?s=cH069ycJgGTOh9ZW-1ZkBA&e=1603754060&_t=1603734883" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Jumanji_The_Next_Level.jpg"
 
-name= Kalašnikov [2020] [EN] url= "https://s-delivery20.mxdcontent.net/v/59fa0a0615216e980ddc16beeb4d55a8.mp4?s=IqWgZV9_KMnqa8XoCNXMhg&e=1603749259&_t=1603732740" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Kalashnikov.jpg"
+name= Kalašnikov [2020] [RU-EN] url= "https://s-delivery20.mxdcontent.net/v/59fa0a0615216e980ddc16beeb4d55a8.mp4?s=IqWgZV9_KMnqa8XoCNXMhg&e=1603749259&_t=1603732740" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Kalashnikov.jpg"
 
 name= Scoob! [2020] [CZ] url= "https://s-delivery28.mxdcontent.net/v/206379861ff356f7625a775721c34145.mp4?s=ZV1HrmTPqIubsEaO4CNh-Q&e=1603741624&_t=1603728767" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg"
 
