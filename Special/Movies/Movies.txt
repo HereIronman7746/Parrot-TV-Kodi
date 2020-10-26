@@ -1,19 +1,7 @@
-name= John Wick 3 [2019] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChQ3Qw5ckaPQJnltoxdIL9zMxIXVHhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603558269&Signature=rbMSENFVj4oWl4VGAE%2F42JfxHb4%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/John_Wick_3.jpg"
-
 name= BloodShot [2020] [CZ] url= "https://s-delivery17.mxdcontent.net/v/55eb273336931ddcb38d3e6b5797c7e2.mp4?s=KZhRFvfxVG7MNTDaXOv7RQ&e=1603740399&_t=1603719096" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/BloodShot.jpg"
 
-name= Vyproštění / Extraction [2020] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChRF4NcweqxZz9FKKQoWwANPwx5iDhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603558123&Signature=4ih9UULrNoTO8T686q4%2FeBhlGH0%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Extraction.jpg"
+name= Scoob! [2020] [CZ] url= "https://s-delivery28.mxdcontent.net/v/206379861ff356f7625a775721c34145.mp4?s=ZV1HrmTPqIubsEaO4CNh-Q&e=1603741624&_t=1603728767" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg"
 
-name= Hitman Agent 47 [2015] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChRgOw6rfRTZ5GQOwyME5A8FpR_XshAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603609473&Signature=ws1fdL0xKuzEfnOLSIP47UCFFT0%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Hitman_Agent_47.jpg"
+name= Scooby Doo V Tábore [2010 [CZ] url= "https://s-delivery29.mxdcontent.net/v/37fb34465371ad285b96020b3cb81c08.mp4?s=fRs9IaWtg3juhG94ZGK_Pg&e=1603741566&_t=1603725879" logo= "Not Found"
 
-name= Scoob! [2020] [CZ] [720p] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/-qC5DA/avi/ChTXPoMDM_AGv6-SwAgsal4Xjp407BAA.avi?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603561535&Signature=nA4MosBfxBYWOX%2BhDCKYzErtSm8%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg"
 
-name= Scoob! [2020] [CZ] [1080p] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/-aDxDA/mkv/ChQvNVBmqEDQaXEBcQEfhqPWc-miJRAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603723795&Signature=P2fzHv7F7OEeDdiR8XTxM3GuvZk%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg"
-
-name= Happy Halloween, Scooby Doo [2020] [EN] url= "https://p-lux4.pcloud.com/cBZNNtrB2Z2KLtm1ZZZGpKU37ZQ5ZZcu0ZkZsNe8tZAFZJ5ZCpZXFZJXZqpZPFZHpZI0ZLFZqFZ7JZ2JZApZwd6pXZtBlSCEpa7vVunEo56tSCUkXwNevy/Happy.Halloween.Scooby.Doo.2020.1080p.WEB-DL.DD5.1.H264-FGT.mp4" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Happy_Halloween_Scooby_Doo.jpg"
-
-name= Scooby Doo a Kráľ Škriatkov [2008] [SK] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/nNzDDA/mkv/ChR3qsV88YM2NnB10RjHip0nL7_WexAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603563081&Signature=6o74VhKKinIJ7II9HexAbULeYW8%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SD_Goblin_King.jpg"
-
-name= Spongebob Movie: Houba Na Suchu [2015] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mp4/ChTVu6R0TQB3vmk6OIXE5GIpuxzKkRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603563259&Signature=SFjYWw0D3t3s1rqkNHTqAW%2F6rHk%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SpongeBob_Out_Of_Water.jpg"
-
-name= Piráti z Karibiku 5 [2017] [CZ] url= "https://degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChSWeA4x2zKNRgjNy7k2ipXlce7MDxAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1603562261&Signature=KoNd%2FKIOilZfHdekgkJww0DJGrY%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Pirates_Of_Caribbean_5.jpg"
