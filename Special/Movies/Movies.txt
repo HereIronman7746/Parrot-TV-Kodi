@@ -10,4 +10,7 @@ name= Scooby-Doo Tréma Před Vystoupením [2013] [CZ] url= "https://s-delivery1
 
 name= Scooby-Doo Wrestlemania Mystery [2014] [CZ] url= "https://s-delivery29.mxdcontent.net/v/b2dfdf17caabb70b0c8ff2fe009bf1a6.mp4?s=Rp29FoNtW7tpq5VkPKXcmA&e=1603748147&_t=1603728312" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SD_Wrestlemania_Mystery.jpg"
 
+name= T-34 [2018] [CZ] url= "https://s-delivery28.mxdcontent.net/v/76ecd7274cf1fecacc99ae573984215e.mp4?s=zZkPBmxoFm3QLHHFgxLGxQ&e=1603750029&_t=1603733594" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/T-34.jpg"
+
+name= Vyproštení / Extraction [2020] [CZ] url= "https://s-delivery29.mxdcontent.net/v/1846771fe98b3c6b24420de3229f4589.mp4?s=WUBq7jmauRRsiqblzMtfDw&e=1603750361&_t=1603732782" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Extraction.jpg"
 
