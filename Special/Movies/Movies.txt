@@ -8,7 +8,7 @@ name= Jumanji: Ďalší Level [2019] [CZ] url= "https://s-delivery21.mxdcontent.
 
 name= Kalašnikov [2020] [RU-EN] url= "https://s-delivery20.mxdcontent.net/v/59fa0a0615216e980ddc16beeb4d55a8.mp4?s=IqWgZV9_KMnqa8XoCNXMhg&e=1603749259&_t=1603732740" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Kalashnikov.jpg"
 
-name= Scoob! [2020] [CZ] url= "https://s-delivery28.mxdcontent.net/v/206379861ff356f7625a775721c34145.mp4?s=POWUxEZiYiXn0mpUi_xUpw&e=1603835206&_t=1603816695" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg" 
+name= Scoob! [2020] [CZ] url= https://s-delivery21.mxdcontent.net/v/33c35c8eea765dd3505ab031af9f9a1a.mp4?s=LTPajP92KogiqG7lR3cOZA&e=1603836763&_t=1603822574" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SCOOB!.jpg" 
 
 name= Scooby-Doo V Tábore [2010] [CZ] url= "https://s-delivery29.mxdcontent.net/v/37fb34465371ad285b96020b3cb81c08.mp4?s=fRs9IaWtg3juhG94ZGK_Pg&e=1603741566&_t=1603725879" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/SD_Camp_Scare.jpg"
 
