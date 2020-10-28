@@ -8,6 +8,14 @@ name= Nova Action url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_av
 
 name= Nova Cinema url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Cinema.png"
 
+name= Nova Sport 1 HD url= "http://ky-iptv.com:25461/live/oscar/1234/187348.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova%20sport.jpg"
+
+name= Nova Sport 2 url= "http://ky-iptv.com:25461/live/oscar/1234/187349.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Sport_2.png"
+
+name= Nova International url= "http://ky-iptv.com:25461/live/oscar/1234/187347.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_I.png"
+
+name= TV Noe url= "http://ky-iptv.com:25461/live/oscar/1234/187340.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/noe.jpg"
+
 name= JoJ Family url= "https://nn.geo.joj.sk/hls/family-360.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/JOJ_Family.png"
 
 name= Elektrika TV url= "http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Elektrika_TV.png"
@@ -24,11 +32,17 @@ name= Polar TV url= "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8" lo
 
 name= Prima url= "http://83.167.253.110:5000/live/prima_hd/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/prima.jpg"
 
+name= Prima Plus HD url= "http://ky-iptv.com:25461/live/oscar/1234/187364.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/plus.jpg"
+
 name= Prima Cool url= "http://92.62.234.223/104/mystream.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Prima_Cool.png"
+
+name= Prima Krimi url= "http://ky-iptv.com:25461/live/oscar/1234/187361.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Prima_Krimi.jpg"
 
 name= Prima Love url= "http://92.62.234.223/101/mystream.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Prima_Love.jpg"
 
 name= Prima MAX url= "http://70.32.0.9:5000/live/518/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/max.jpg"
+
+name= Prima Zoom url= "http://ky-iptv.com:25461/live/oscar/1234/187365.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/zoom.jpg"
 
 name= Retro url= "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Retro_TV.png"
 
@@ -38,14 +52,16 @@ name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "http://parrotrepo.
 
 name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/TV_Natura.jpg"
 
-name= JimJam url= "http://83.167.253.110:5000/live/jimjam/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/jim.jpg"
+name= Epic Drama HD url= "http://ky-iptv.com:25461/live/oscar/1234/187309.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Epic_Drama.jpg"
 
-name= Praha TV url= "https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/praha.jpg"
+name= Nickelodeon url= "http://ky-iptv.com:25461/live/oscar/1234/187339.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nickelodeon.jpg"
 
-name= RTM Plus url= "http://www.rtmplus.cz/live/1-playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/rtm.jpg"
+name= Nick JR. url= "http://ky-iptv.com:25461/live/oscar/1234/187338.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nick_JR.png"
 
-name= Mode 1 url= "https://dailyiptvlist.com/dl/cz-m3uplaylist-2020-10-16-1.m3u" logo= "http://upload.wikimedia.org/wikipedia/commons/d/de/Color-Green.JPG"
+name= HBO HD url= "http://ky-iptv.com:25461/live/oscar/1234/187324.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbohd.jpg"
 
-name= Mode 2 url= "https://dailyiptvlist.com/dl/cz-m3uplaylist-2020-10-16-2.m3u" logo= "https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0186/6273/neon_yellow_shop_preview.png"
+name= HBO 2 HD url= "http://ky-iptv.com:25461/live/oscar/1234/187322.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbo%202.jpg"
 
-name= Mode 3 url= "https://dailyiptvlist.com/dl/cz-m3uplaylist-2020-10-16-3.m3u" logo= "https://upload.wikimedia.org/wikipedia/commons/4/4e/Red.svg.png"
+name= HBO 3 url= "http://ky-iptv.com:25461/live/oscar/1234/187323.m3u" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbo%203.jpg"
+
+name= History url= "http://ky-iptv.com:25461/live/oscar/1234/187325.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/history.jpg"
