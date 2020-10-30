@@ -52,7 +52,7 @@ name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "http://parrotrepo.
 
 name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/TV_Natura.jpg"
 
-name= Epic Drama HD url= "http://163.172.61.211:8080/iptvhometv/0451/83386?token=ShUNAEFcElxEWwFSDQ8BV1cHD1RVAQMLUwcCVgdRA1cEA1dQVFEFU1EaGEZKTREDAFhpWAUVDwEFAltUG0AUEFRFOghWFgpEUAkDXBsVQRIIWFMTWwYDCQUIVFUCUVdPE0cMBRAOElRQDwJUGxVBAxlBU0MPVllmUlQVC1QHQ1lfQgkNHhZfCDlcUQlYVwdEWxcGE00VXEpGE1kMQg4NTxNVDBVAVUQDRAIWVwABV0RNF1VeFFlBS08TWUBlN0NPE1IdFVdaQw8JVhZeG00QRE0XX0I+RVBKQkMGA1oHE0ELFVRDHhZdBx5nVwtXVwYFFVxZXxIVDxsBAVNAG0AMDF9eEQ5Aa0APAhoORgsAVlFQF0s=" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Epic_Drama.jpg"
+name= Epic Drama HD url= "http://kuchini.site:8080/iptvhometv/0451/83386" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Epic_Drama.jpg"
 
 name= Nickelodeon url= "http://kuchini.site:8080/iptvhometv/0451/46720" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nickelodeon.jpg"
 
