@@ -1,2 +1,3 @@
-name= Mimo Prevádzky / Out OF Order, Please Use Online Version. http://parrotmovies.tk Or Scan QR. url= "Disabled" logo= "http://parrotrepo.000webhostapp.com/QR/QR.png"
+name= Bloodshot [CZ] [2020] url= "https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChSNzxej0HvEu1JL1tgtcAl88t1QGhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1604761644&Signature=f8V3gslDDPYIorrbe9cxAwU2vgA%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/BloodShot.jpg"
 
+name= Deadpool [CZ] [2016] url= "https://c.degoo.io/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mp4/ChRC1iPmDgQ5_j4m8bIShTY8KoGGFhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1604761992&Signature=YJGfU8iT5wCzOEobJdjkv36K094%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Deadpool.jpg"
