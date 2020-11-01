@@ -54,6 +54,8 @@ name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "htt
 
 name= Epic Drama HD url= "http://kuchini.site:8080/iptvhometv/0451/83386" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Epic_Drama.jpg"
 
+name= Epic Drama HD 2 url= "http://epicdramaonlineparrottv.ml" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Epic_Drama.jpg"
+
 name= Nickelodeon url= "http://kuchini.site:8080/iptvhometv/0451/46720" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nickelodeon.jpg"
 
 name= Nick JR. url= "http://ky-iptv.com:25461/live/oscar/1234/187338.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nick_JR.png"
