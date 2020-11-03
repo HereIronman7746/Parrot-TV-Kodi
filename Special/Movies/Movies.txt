@@ -1,5 +1,12 @@
 name= Bloodshot [CZ] [2020] url= "https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChSNzxej0HvEu1JL1tgtcAl88t1QGhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1604761644&Signature=f8V3gslDDPYIorrbe9cxAwU2vgA%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/BloodShot.jpg"
 
+name= Borat 2 [EN + CZ subtitle] [2020] url= "https://c.degoo.io/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mp4/ChQegWa7wu_EOwHyhiLsxtlCE7KGGRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1605011791&Signature=yZcW0VROyVOkuaKNVvuE%2FLZlRxQ%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Borat_2.jpg"
+
+name= Coco [CZ] [2017] url= "https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChQx98wCb1336JWs2NLOGQmnyg-_IhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1605011877&Signature=PY4RPY2a7l%2FhuLfJRwjovYcTVGg%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Coco.jpg"
+
 name= Deadpool [CZ] [2016] url= "https://c.degoo.io/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mp4/ChRC1iPmDgQ5_j4m8bIShTY8KoGGFhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1604761992&Signature=YJGfU8iT5wCzOEobJdjkv36K094%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Deadpool.jpg"
 
-name= Kalashnikov [RU] [2020] url= "https://coliseum.cloud.hotlan.by/movies/09ffd4e7a7a6c75082683e7deb96ee5756cb44f7/ff324a5ec2b20d36bf6464e4bbc16767:2020110115/240.mp4" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Kalashnikov.jpg"
+name= Ghost Rider 2 [CZ] [2012] url= "https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChRCK8xKsTIB7ARCyDP_bZg9-jpstxAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1605011972&Signature=On5sDYINDtJwFrTeQVkXcEESd98%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Ghost_Rider_2.jpg"
+
+name= Spongebob Ve Filmu: Houba Na Suchu [CZ] [2015] url= "https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChRLyk8kVkw-83Gn6mddm4__ZLQOrBAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1605012690&Signature=0THuHMEdyLragQVdIcyWHk8A5h4%3D&ngsw-bypass=1" logo "http://parrotrepo.000webhostapp.com/Movies/Icons/Spongebob_Sponge_Out_Of_Water.jpg"
+
