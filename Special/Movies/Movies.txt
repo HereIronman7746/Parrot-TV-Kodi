@@ -8,5 +8,5 @@ name= Deadpool [CZ] [2016] url= "https://c.degoo.io/degoo-production-large-file-
 
 name= Ghost Rider 2 [CZ] [2012] url= "https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChRCK8xKsTIB7ARCyDP_bZg9-jpstxAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1605011972&Signature=On5sDYINDtJwFrTeQVkXcEESd98%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Ghost_Rider_2.jpg"
 
-name= Spongebob Ve Filmu: Houba Na Suchu [CZ] [2015] url= "https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChRLyk8kVkw-83Gn6mddm4__ZLQOrBAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1605012690&Signature=0THuHMEdyLragQVdIcyWHk8A5h4%3D&ngsw-bypass=1" logo "http://parrotrepo.000webhostapp.com/Movies/Icons/Spongebob_Sponge_Out_Of_Water.jpg"
+name= Spongebob Ve Filmu: Houba Na Suchu [CZ] [2015] url= "https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChRLyk8kVkw-83Gn6mddm4__ZLQOrBAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1605012690&Signature=0THuHMEdyLragQVdIcyWHk8A5h4%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Spongebob_Sponge_Out_Of_Water.jpg"
 
