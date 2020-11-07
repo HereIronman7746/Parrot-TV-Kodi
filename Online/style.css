@@ -1,6 +1,12 @@
 button {
-height: 50px;
-width: 100%;
-background-color: blue;
+  height: 50px;
+  width: 100%;
+  background-color: blue;
 }
+  
+strong {
+  font-size: 40px;
+}
+
+
 
