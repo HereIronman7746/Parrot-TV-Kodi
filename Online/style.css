@@ -1,5 +1,12 @@
 .button {
-height="500px
-width="100px"
+height: 500px;
+width: 100px;
 background-color: red;
 }
+
+button {
+height: 500px;
+width: 100px;
+background-color: red;
+}
+
