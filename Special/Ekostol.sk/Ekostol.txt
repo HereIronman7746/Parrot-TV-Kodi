@@ -1,0 +1,1 @@
+name= Ludanice url= "https://stream2.profi-net.sk/commercial/KOSTOLLUDANICE.stream/chunklist_w1028650943.m3u8" logo= "g"
