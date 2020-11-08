@@ -2,6 +2,7 @@ button {
   height: 50px;
   width: 100%;
   background-color: blue;
+  border-style: solid;
 }
   
 strong {
