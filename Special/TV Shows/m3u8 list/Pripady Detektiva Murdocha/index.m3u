@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1, te3st
+https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows.txt
 
 #EXTINF-1, tvg-name="Season 13 [CZ Titulky]"
 https://l.parrottv.tk/MMS13
