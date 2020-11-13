@@ -4,5 +4,4 @@ name= Co nového Scooby Doo? url= "https://raw.githubusercontent.com/ParrotDevel
 
 name= Případy Detektiva Murdocha url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/m3u8%20list/Pripady%20Detektiva%20Murdocha/Backup.m3u" logo= "http://parrotrepo.000webhostapp.com/TV%20Shows/Icons/Murdoch%20Mysteries.jpg"
 
-name= Beta url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/m3u8%20list/Pripady%20Detektiva%20Murdocha/index.m3u" logo= "d"
 
