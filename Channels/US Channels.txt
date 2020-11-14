@@ -1,5 +1,5 @@
 
-name= Animal Planet url= "http://greenstreamtv.xyz:25461/MS11/M1234/53" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Animal%20Planet.jpg"
+name= Animal Planet url= "http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/53" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Animal%20Planet.jpg"
 name= Animal Planet 2 url= "http://l.parrottv.tk/AnimalPlanet" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Animal%20Planet.jpg"
 name= CBS News url= "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/CBS_News.png"
 name= Fox News Radio url= "http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Fox_News_Radio.png"
