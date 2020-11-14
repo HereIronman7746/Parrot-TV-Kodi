@@ -1,0 +1,19 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="CZ" tvg-name="Nova" tvg-chno="1" tvg-logo="http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova.jpg" group-title="CZ", Nova
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
+#EXTINF: -1 tvg-id="CZ" tvg-name="Nova 2" tvg-chno="2" tvg-logo="http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_2.png" group-title="CZ", Nova 2
+https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8
+#EXTINF: -1 tvg-id="CZ" tvg-name="Nova Gold" tvg-chno="3" tvg-logo="http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Gold.png" group-title="CZ", Nova Gold
+https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8
+#EXTINF: -1 tvg-id="CZ" tvg-name="Nova Action" tvg-chno="4" tvg-logo="http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Action.png" group-title="CZ", Nova Action
+https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8
+#EXTINF: -1 tvg-id="CZ" tvg-name="Nova Cinema" tvg-chno="5" tvg-logo="http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Cinema.png" group-title="CZ", Nova Cinema
+https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
+#EXTINF: -1 tvg-id="CZ" tvg-name="Elektrika TV" tvg-chno="6" tvg-logo="http://parrotrepo.000webhostapp.com/TVicons/CZ/Elektrika_TV.png" group-title="CZ", Elektrika TV
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="SK" tvg-name="JoJ" tvg-chno="1" tvg-logo="http://parrotrepo.000webhostapp.com/TVicons/SK/JOJ.jpg" group-title="SK", JoJ
+http://nn2.joj.sk/hls/joj-720.m3u8
+#EXTINF: -1 tvg-id="SK" tvg-name="JoJ Plus" tvg-chno="2" tvg-logo="http://parrotrepo.000webhostapp.com/TVicons/SK/JOJ_Plus.jpg" group-title="SK", JoJ Plus
+http://nn2.joj.sk/hls/jojplus-540.m3u8
+#EXTINF: -1 tvg-id="SK" tvg-name="JoJ Family" tvg-chno="3" tvg-logo="http://parrotrepo.000webhostapp.com/TVicons/SK/JOJ_Family.png" group-title="SK", JoJ Family
+http://nn.geo.joj.sk/hls/family-360.m3u8
