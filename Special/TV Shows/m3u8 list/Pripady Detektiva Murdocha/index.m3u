@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, Season 13 [CZ Titulky] 
+#EXTINF:-1, Season 13 [CZ Titulky] tvg-logo="http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova.jpg"
 https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/m3u8%20list/Pripady%20Detektiva%20Murdocha/Season%2013.m3u
 
 #EXTINF:-1, Season 12
