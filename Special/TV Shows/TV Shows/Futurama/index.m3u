@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTIN:-1, S02E01
-https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChTYsZDI6wXTjpqrRLaKUU15qA8YzxAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607270182&Signature=rUfCulG9R8dzJ4nT%2Fgg0m%2BRLXGM%3D&ngsw-bypass=1
+#EXTIN:-1, Season 1
+hhttps://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Futurama/Season%201.m3u
+
+#EXTINF:-1, Season 2
+https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Futurama/Season%202.m3u
