@@ -1,6 +1,7 @@
-name= Are You Afraid Of The Dark? [2019] url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/m3u8%20list/Are%20You%20Afraid%20Of%20The%20Dark%202019/index.m3u" logo= "http://parrotrepo.000webhostapp.com/TV%20Shows/Icons/Are_You_Afraid_Of_The_Dark.jpg"
+name= Futurama url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Futurama/index.m3u" logo= "http://parrotrepo.000webhostapp.com/TV%20Shows/Icons/Futurama.jpg"
 
-name= Co nového Scooby Doo? url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/m3u8%20list/Co%20Noveho%20Scooby%20Doo/index.m3u" logo= "http://parrotrepo.000webhostapp.com/TV%20Shows/Icons/Co_Noveho_Scooby_Doo.jpg"
 
-name= Případy Detektiva Murdocha url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/m3u8%20list/Pripady%20Detektiva%20Murdocha/index.m3u" logo= "http://parrotrepo.000webhostapp.com/TV%20Shows/Icons/Murdoch%20Mysteries.jpg"
+name= Případy Detektiva Murdocha url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Pripady%20Detektiva%20Murdocha/index.m3u" logo= "http://parrotrepo.000webhostapp.com/TV%20Shows/Icons/Murdoch%20Mysteries.jpg"
+
+
 
