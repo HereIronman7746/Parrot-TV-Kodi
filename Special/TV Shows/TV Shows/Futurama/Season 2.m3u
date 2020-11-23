@@ -1,4 +1,61 @@
 #EXTM3U
 
-#EXTIN:-1, E01
-https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChTYsZDI6wXTjpqrRLaKUU15qA8YzxAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607270182&Signature=rUfCulG9R8dzJ4nT%2Fgg0m%2BRLXGM%3D&ngsw-bypass=1
+#EXTINF:-1, E01
+https://c.degoo.info/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChTYsZDI6wXTjpqrRLaKUU15qA8YzxAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607360792&Signature=QtiyfKMW6ZXsoInb9lmaOqyAwLA%3D&ngsw-bypass=1
+
+#EXTINF:-1, E02
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChS-bEnYDQSr7kG423tnd_g_swxX5xAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361242&Signature=7js8BAjmB5tX%2FmPQd52n65xlNQg%3D&ngsw-bypass=1
+
+#EXTINF:-1, E03
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChTkNNjXsXOvuc6q2r67LavPxnIRzhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361261&Signature=1T%2FMh0SJV%2F7ZOPEHTQDEcjRmlJE%3D&ngsw-bypass=1
+
+#EXTINF:-1, E04
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChSm2S23hay3vUMScYCi5vq6aahpLRAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361282&Signature=mO0Tqn1h%2FQzknl%2BSLILJpaDOmv4%3D&ngsw-bypass=1
+
+#EXTINF:-1, E05
+https://c.degoo.info/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChS2qXetvEd8XhMnWvD9QeCOqclTexAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361300&Signature=Qb6yh%2BzNevnme00yZceMkL6vJqw%3D&ngsw-bypass=1
+
+#EXTINF:-1, E06
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChT0_1za0H12HSBXnC7jlK93VEWABhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361321&Signature=Px9UHDePnZd64gPrLx5BU648HvY%3D&ngsw-bypass=1
+
+#EXTINF:-1, E07
+https://c.degoo.io/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChQkkpEp1_32aGtMBlkMsanB4oqzYhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361343&Signature=HrSkG0HC58uJDqSwpOATwMOqB3s%3D&ngsw-bypass=1
+
+#EXTINF:-1, E08
+https://c.degoo.io/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChSx-nXHJx-ZalaJAGa2CVTOO0KodBAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361362&Signature=i2v0VEG06opjyHFUx8OlZH6De3s%3D&ngsw-bypass=1
+
+#EXTINF:-1, E09
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChRtUFr_OOx3y-M5GEUM1E7enERbxxAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361389&Signature=UFLPxMY3K8dosxO19fAF6T4%2BHs4%3D&ngsw-bypass=1
+
+#EXTINF:-1, E10
+https://c.degoo.io/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChRNfFj52d3AzGep66951hPF63fJzhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361408&Signature=eb5m7qfezHn7enivi27xF%2FqLQAU%3D&ngsw-bypass=1
+
+#EXTINF:-1, E11
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChQv3JPIE3232YRNDZ4vnoJ5m4LGdBAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361430&Signature=VwbeJp%2FTDXAvjtSjrNoy9CKMXUk%3D&ngsw-bypass=1
+
+#EXTINF:-1, E12
+https://c.degoo.io/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChTUG8Yj-gtwZpVvr9yJBMuQOpFrxBAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361510&Signature=1vCj5HFKR4GbECf32p2Uo45xwx0%3D&ngsw-bypass=1
+
+#EXTINF:-1, E13
+https://c.degoo.io/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChRzqxl6aZbUGTPa30864pnlaTZoahAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361534&Signature=ShM95aRO9lOu0bI%2Fp0oEWEIP%2BKQ%3D&ngsw-bypass=1
+
+#EXTINF:-1, E14
+https://c.degoo.info/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChQpBJkDLkLdgPa9lqP-3lf12xY2XhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361562&Signature=ACwHUquTcqYgLP1LhLtIWEhLBtU%3D&ngsw-bypass=1
+
+#EXTINF:-1, E15
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChRujqZDbcY7HkWu3A8hFDNAgI1QzBAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361593&Signature=cdSQyGTbsB0%2FciAWojWsqgH7C%2Bk%3D&ngsw-bypass=1
+
+#EXTINF:-1, E16
+https://c.degoo.info/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChRDhA0KbF2qP2Frm0s0XDl7E06RlxAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361646&Signature=BVhbxUoa9L0j0yCtj6dBiWLvTYo%3D&ngsw-bypass=1
+
+#EXTINF:-1, E17
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChTnGNqlOEA4Yixu0N1xQ2jbHLqPDhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361667&Signature=pw1JI8NVZU6FcfsV5b3mgGYeb4c%3D&ngsw-bypass=1
+
+#EXTINF:-1, E18
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChSBG1vdIRJFgylwALeFJJFJkD3xRhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361709&Signature=dk%2FkYxZ5Q9ZeBydoqIB0s0nvsr4%3D&ngsw-bypass=1
+
+#EXTINF:-1, E19
+https://c.degoo.media/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChS6tjlzDGa9zfE-4eFjA3bxZ6l1rBAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607360553&Signature=1AS81G7j5okwEmeTOlBje9YAyTY%3D&ngsw-bypass=1
+
+#EXTINF:-1, E20
+https://c.degoo.info/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChR-JAkxifZ7_iAbQc-qn2f5dtaEQhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607361760&Signature=b5g3kpbqrhW%2FUsKxkdfu4BEXI14%3D&ngsw-bypass=1
