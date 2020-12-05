@@ -54,6 +54,7 @@ name= HBO 2 url= "https://tv.parrottv.tk/CZHBO2.m3u8" logo= "http://parrotrepo.0
 name= HBO 3 url= "https://tv.parrottv.tk/CZHBO3.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbo%203.jpg"
 name= Fine Living url= "https://tv.parrottv.tk/CZFineLiving.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Fine_Living.png"
 name= Discovery url= "https://tv.parrottv.tk/CZDiscovery.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Discovery.jpg"
+name= AMC url= "https://tv.parrottv.tk/CZAMC.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/AMC.jpg"
 
 
 
