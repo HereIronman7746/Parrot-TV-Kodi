@@ -56,5 +56,7 @@ name= Fine Living url= "https://tv.parrottv.tk/CZFineLiving.m3u8" logo= "http://
 name= Discovery url= "https://tv.parrottv.tk/CZDiscovery.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Discovery.jpg"
 name= AMC url= "https://tv.parrottv.tk/CZAMC.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/AMC.jpg"
 
+name= TEST url= "http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47366" logo= "f"
+
 
 
