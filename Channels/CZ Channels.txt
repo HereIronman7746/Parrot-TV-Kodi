@@ -46,7 +46,7 @@ name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "http://parrotrepo.
 
 name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/TV_Natura.jpg"
 
-name= AXN url= "https://tv.parrottv.tk/CZAXN.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/axn.jpg"
+name= AXN url= "https://bit.ly/2VU74Bx" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/axn.jpg"
 name= History url= "https://tv.parrottv.tk/CZHistory.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/history.jpg"
 name= Viasat History url= "https://tv.parrottv.tk/CZViasatHistory.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Viasat_History.png"
 name= HBO HD url= "https://tv.parrottv.tk/CZHBO.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbohd.jpg"
