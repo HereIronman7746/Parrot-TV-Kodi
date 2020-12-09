@@ -1,1 +1,29 @@
+name= Crime & Investigation url= "https://tv.parrottv.tk/DECrime&Investigation" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/C&I.png"
 
+name= VOX HD url= "https://tv.parrottv.tk/DEVOX" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/VOXHD.png"
+
+name= Nat Geo HD url= "https://tv.parrottv.tk/DENatGeo" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/NatGeo.jpg"
+
+name= Nat Geo Wild HD url= "https://tv.parrottv.tk/DENatGeoWild" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/NatGeoWild.jpg"
+
+name= History HD url= "https://tv.parrottv.tk/DEHistory" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/History.jpg"
+
+name= Boomerang url= "https://tv.parrottv.tk/DEBoomerang" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/Boomerang.png"
+
+name= Nick + url= "https://tv.parrottv.tk/DENick+" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/Nick+.png"
+
+name= Comedy Central HD url= "https://tv.parrottv.tk/DEComedyCentral" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/Comedy%20Central.png"
+
+name= EuroSport1 HD url= "https://tv.parrottv.tk/DEEuroSport1" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/EUSport.png"
+
+name= EuroSport 2 HD url= "https://tv.parrottv.tk/DEEuroSport2" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/EUSport2.png"
+
+name= Universal Channel HD url= "https://tv.parrottv.tk/DEUChannel" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/UChannel.png"
+
+name= FilmClub 1 HD url= "https://tv.parrottv.tk/DEFilmClub1" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/FCLUB.jpg"
+
+name= FilmClub 2 HD url= "https://tv.parrottv.tk/DEFilmClub2" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/FilmClub2.gif"
+
+name= Boss Movies 1 HD url= "https://tv.parrottv.tk/DEBossMovies1" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/BMovies.png"
+
+name= Boss Movies 2 HD url= "https://tv.parrottv.tk/DEBossMovies2" logo= "http://parrotrepo.000webhostapp.com/TVicons/DE/BMovies.png"
