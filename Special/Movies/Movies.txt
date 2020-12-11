@@ -4,7 +4,8 @@ name= Bloodshot [CZ] [2020] url= "https://c.degoo.info/degoo-production-large-fi
 name= Borat 2 [EN + CZ subtitle] [2020] url= "https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mp4/ChQegWa7wu_EOwHyhiLsxtlCE7KGGRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607968402&Signature=psxIwnA97GS4K7fFui9u%2Fo%2Bu2rQ%3D&ngsw-bypass=1
 " logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Borat_2.jpg"
 
-name= Coco [CZ] [2017] url= "https://Special.parrottv.tk/CZCoco" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Coco.jpg"
+name= Coco [CZ] [2017] url= "https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChQx98wCb1336JWs2NLOGQmnyg-_IhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607968690&Signature=ceD3yMATf%2FXbBYZoxs7nYJdRYKo%3D&ngsw-bypass=1
+" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Coco.jpg"
 
 name= Deadpool [CZ] [2016] url= "https://Special.parrottv.tk/CZGhostRider2" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Deadpool.jpg"
 
