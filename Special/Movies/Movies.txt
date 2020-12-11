@@ -9,3 +9,5 @@ name= Deadpool [CZ] [2016] url= "https://Special.parrottv.tk/CZGhostRider2" logo
 name= Ghost Rider 2 [CZ] [2011] url= "https://Special.parrottv.tk/CZGhostRider2" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Ghost_Rider_2.jpg"
 
 name= Spongebob Ve Filmu: Houba Na Suchu [CZ] [2015] url= "https://Special.parrottv.tk/CZSpongebob2015" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Spongebob_Sponge_Out_Of_Water.jpg"
+
+s
