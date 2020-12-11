@@ -1,7 +1,8 @@
 name= Bloodshot [CZ] [2020] url= "https://c.degoo.info/degoo-production-large-file-us-east1.degoo.me/gCv3ev/pvfEDA/mkv/ChSNzxej0HvEu1JL1tgtcAl88t1QGhAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607968261&Signature=2oKLkDT%2BMY9quwoqfuk9NjbcLNg%3D&ngsw-bypass=1
 " logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/BloodShot.jpg"
 
-name= Borat 2 [EN + CZ subtitle] [2020] url= "https://Special.parrottv.tk/ENBorat2" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Borat_2.jpg"
+name= Borat 2 [EN + CZ subtitle] [2020] url= "https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mp4/ChQegWa7wu_EOwHyhiLsxtlCE7KGGRAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607968402&Signature=psxIwnA97GS4K7fFui9u%2Fo%2Bu2rQ%3D&ngsw-bypass=1
+" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Borat_2.jpg"
 
 name= Coco [CZ] [2017] url= "https://Special.parrottv.tk/CZCoco" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Coco.jpg"
 
