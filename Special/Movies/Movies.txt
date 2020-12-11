@@ -6,8 +6,7 @@ name= Coco [CZ] [2017] url= "https://c.degoo.eu/degoo-production-large-file-us-e
 
 name= Deadpool [CZ] [2016] url= "https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mp4/ChRC1iPmDgQ5_j4m8bIShTY8KoGGFhAA.mp4?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607968890&Signature=YxDlGZXpbssmuDt2AdZyV1jEYbc%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Deadpool.jpg"
 
-name= Ghost Rider 2 [CZ] [2011] url= "https://c.degoo.io/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChRCK8xKsTIB7ARCyDP_bZg9-jpstxAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607969026&Signature=%2BLmPdur%2Bv44%2F322vmdW5kqu0Mg0%3D&ngsw-bypass=1
-" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Ghost_Rider_2.jpg"
+name= Ghost Rider 2 [CZ] [2011] url= "https://c.degoo.io/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChRCK8xKsTIB7ARCyDP_bZg9-jpstxAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607969026&Signature=%2BLmPdur%2Bv44%2F322vmdW5kqu0Mg0%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Ghost_Rider_2.jpg"
 
 name= Spongebob Ve Filmu: Houba Na Suchu [CZ] [2015] url= "https://c.degoo.io/degoo-production-large-file-us-east1.degoo.me/gCv3ev/-YuDDQ/mkv/ChRLyk8kVkw-83Gn6mddm4__ZLQOrBAA.mkv?GoogleAccessId=GOOG1ERGS5Y62VUMTEDIF6DORMJGWTJNXVR4GZLNW6KFP7E4PMCAYMA5BR6RA&Expires=1607969208&Signature=bU5F0KhcIaA%2B2lVNrE0xBL1iqCY%3D&ngsw-bypass=1" logo= "http://parrotrepo.000webhostapp.com/Movies/Icons/Spongebob_Sponge_Out_Of_Water.jpg"
 
