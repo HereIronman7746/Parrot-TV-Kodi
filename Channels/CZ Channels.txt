@@ -32,4 +32,6 @@ name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "https://i.ibb.co/W
 
 name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "https://i.ibb.co/K0HR49p/TV-Natura.png"
 
+name= Prima Zoom url= "https://prima-ott-live-sec.ssl.cdn.cra.cz/gPghh2pH4TnCKdALWJafdA==,1607866967/channels/prima_zoom/playlist/cze/live_lq.m3u8?offsetSeconds=0&url=0" logo= "g"
+
 
