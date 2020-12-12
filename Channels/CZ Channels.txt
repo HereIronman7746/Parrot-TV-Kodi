@@ -1,57 +1,39 @@
-name= Nova url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova.jpg"
+name= Nova url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8" logo= "https://i.ibb.co/z4NMCjV/Nova.png"
 
-name= Nova 2 url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_2.png"
+name= Nova 2 url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8" logo= "https://i.ibb.co/925Rmkq/Nova-2.png"
 
-name= Nova Gold url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Gold.png"
+name= Nova Gold url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8" logo= "https://i.ibb.co/dpSZ22v/Nova-Gold.png"
 
-name= Nova Action url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Action.png"
+name= Nova Action url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist.m3u8" logo= "https://i.ibb.co/99VYDCc/Nova-Action.jpg"
 
-name= Nova Cinema url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Cinema.png"
+name= Nova Cinema url= "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8" logo= "https://i.ibb.co/rkL4pnC/Nova-Cinema.png"
 
-name= Nova Sport 1 HD url= "https://tv.parrottv.tk/CZNovaSport1.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova%20sport.jpg"
+name= Elektrika TV url= "http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8" logo= "https://i.ibb.co/sRVbxTv/Elektrika-TV.jpg"
 
-name= Nova Sport 2 url= "https://tv.parrottv.tk/CZNovaSport2.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_Sport_2.png"
+name= Óčko url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8" logo= "https://i.ibb.co/1fbv9Qq/Ocko.png"
 
-name= Nova International url= "https://tv.parrottv.tk/NovaI.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Nova_I.png"
+name= Óčko Gold url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8" logo= "https://i.ibb.co/g35N1VV/Ocko-Gold.gif"
 
-name= JoJ Family url= "https://nn.geo.joj.sk/hls/family-360.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/JOJ_Family.png"
+name= Óčko Expres url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8" logo= "https://i.ibb.co/q9pwKJC/Ocko-Expres.png"
 
-name= Elektrika TV url= "http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Elektrika_TV.png"
+name= Óčko STAR url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8" logo= "https://i.ibb.co/HX9M2pS/Ocko-Star.png"
 
-name= Óčko url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/%c3%93%c4%8dko.png"
+name= Polar TV url= "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8" logo= "https://i.ibb.co/8sQ8yxh/Polar.png"
 
-name= Óčko Gold url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/%c3%93%c4%8dko%20Gold.jpg"
+name= Prima url= "http://83.167.253.110:5000/live/prima_hd/playlist.m3u8" logo= "https://i.ibb.co/wrpRzgq/Prima.jpg"
 
-name= Óčko Expres url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/express.jpg"
+name= Prima Cool url= "http://92.62.234.223/104/mystream.m3u8" logo= "https://i.ibb.co/Fh1dHCH/Prima-Cool.png"
 
-name= Óčko STAR url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/star.jpg"
+name= Prima Love url= "http://92.62.234.223/101/mystream.m3u8" logo= "https://i.ibb.co/syZr536/Prima-Love.png"
 
-name= Polar TV url= "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Polar_TV.png"
+name= Prima MAX url= "http://70.32.0.9:5000/live/518/playlist.m3u8" logo= "https://i.ibb.co/J2dBj46/Prima-Max.png"
 
-name= Prima url= "http://83.167.253.110:5000/live/prima_hd/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/prima.jpg"
+name= Retro url= "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" logo= "https://i.ibb.co/YPtmSrV/Retro.png"
 
-name= Prima Cool url= "http://92.62.234.223/104/mystream.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Prima_Cool.png"
+name= Šlágr url= "https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8" logo= "https://i.ibb.co/Nx2fR74/Slagr.png"
 
-name= Prima Krimi url= "http://ky-iptv.com:25461/live/oscar/1234/187361.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Prima_Krimi.jpg"
+name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "https://i.ibb.co/WxDvCry/Slagr2.png"
 
-name= Prima Love url= "http://92.62.234.223/101/mystream.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Prima_Love.jpg"
+name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "https://i.ibb.co/K0HR49p/TV-Natura.png"
 
-name= Prima MAX url= "http://70.32.0.9:5000/live/518/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/max.jpg"
 
-name= Retro url= "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Retro_TV.png"
-
-name= Šlágr url= "https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Slagr_TV.jpg"
-
-name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Slagr_2.jpg"
-
-name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/TV_Natura.jpg"
-
-name= AXN url= "https://bit.ly/2VU74Bx" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/axn.jpg"
-name= History url= "https://tv.parrottv.tk/CZHistory.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/history.jpg"
-name= Viasat History url= "https://tv.parrottv.tk/CZViasatHistory.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Viasat_History.png"
-name= HBO HD url= "https://tv.parrottv.tk/CZHBO.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbohd.jpg"
-name= HBO 2 url= "https://tv.parrottv.tk/CZHBO2.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbo%202.jpg"
-name= HBO 3 url= "https://tv.parrottv.tk/CZHBO3.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/hbo%203.jpg"
-name= Fine Living url= "https://tv.parrottv.tk/CZFineLiving.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Fine_Living.png"
-name= Discovery url= "https://tv.parrottv.tk/CZDiscovery.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/Discovery.jpg"
-name= AMC url= "https://tv.parrottv.tk/CZAMC.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/CZ/AMC.jpg"
