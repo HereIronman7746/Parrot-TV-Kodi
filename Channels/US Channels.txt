@@ -1,54 +1,15 @@
+name= CBS News url= "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8" logo= "https://i.ibb.co/8PwHGR9/CBS-News.png"
 
-name= Animal Planet url= "http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/53" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Animal%20Planet.jpg"
+name= Voice Of America url= "http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8" logo= "https://i.ibb.co/gyM18G0/Voice-Of-America.png"
 
-name= Animal Planet 2 url= "http://l.parrottv.tk/AnimalPlanet" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Animal%20Planet.jpg"
+name= Bowie TV url= "http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8" logo= "https://i.ibb.co/T09Tp95/Bowie-TV.png"
 
-name= CBS News url= "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/CBS_News.png"
+name= Kool TV url= "http://173.199.158.79:1935/roku/myStream/playlist.m3u8" logo= "https://i.ibb.co/23rQcwV/Kool-TV.png"
 
-name= Fox News Radio url= "http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Fox_News_Radio.png"
+name= MLB Network url= "http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8" logo= "https://i.ibb.co/9Tp0LFC/MLB-Network.png"
 
-name= Disney Channel url= "http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/175" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Disney.jpg"
+name= Red Bull TV url= "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8" logo= "https://i.ibb.co/qDn276C/Red-Bull-TV.png"
 
-name= Disney JR. url= "http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/174" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Disney_JR.jpg"
+name= Weather Channel url= "http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8" logo= "https://i.ibb.co/5rvjb9s/Weather-Channel.png"
 
-name= Disney XD url= "http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/173" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Disney_XD.jpg"
 
-name= Disney Channel 2 url= "http://185.232.53.5:2086/arellano/kgtL965n2Y/3261?checkedby:hlscat.com" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Disney.jpg"
-
-name= Disney JR. 2 url= "http://185.232.53.5:2086/arellano/kgtL965n2Y/3260?checkedby:hlscat.com" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Disney_JR.jpg"
-
-name= Disney XD url= "http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/7878?checkedby:hlscat.com" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Disney_XD.jpg"
-
-name= NickToons url= "http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/149" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/NickToons.png"
-
-name= Nick JR. url= "http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/185" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Nick_JR.jpg"
-
-name= Nickelodeon url= "http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/151" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Nickelodeon.jpg"
-
-name= Nick url= "https://s2.ustv24h.live/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAyMCA3OjIzOjA5IFBNJmhhc2hfdmFsdWU9QmxRZlNpNVp3U3o2Rjg4YlZtbFdKQT09JnZhbGlkbWludXRlcz0yNDA=" logo= "g"
-
-name= Discovery Channel url= "http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/51" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Discovery.jpg"
-
-name= Voice Of America url= "http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Voce_Of_America.jpg"
-
-name= Bowie TV url= "http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Bowie_TV.png"
-
-name= Key TV url= "http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Key_TV.png"
-
-name= Kool TV url= "http://173.199.158.79:1935/roku/myStream/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Kool_TV.jpg"
-
-name= Lite FM url= "http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/LiteFM.jpg"
-
-name= MLB Network url= "http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/MLB_Network.jpg"
-
-name= Red Bull TV url= "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Red_Bull_TV.png"
-
-name= Weather Channel url= "http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Weather_Channel_.png"
-
-name= Z100 New York url= "http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8" logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Z100_New_York.jpg"
-
-name= iHeart 80s [Radio] url= http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8 logo= "http://parrotrepo.000webhostapp.com/TVicons/US/iHeart.jpg"
-
-name= Nick Radio url= "http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8 logo= "http://parrotrepo.000webhostapp.com/TVicons/US/Nick_Radio.png"
-
-name= Nick Music url= "http://greenstreamtv.xyz:25461/brentcarmean/bc4667gs/1294" logo= ""
