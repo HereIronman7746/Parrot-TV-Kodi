@@ -1,7 +1,7 @@
-name= Futurama url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Futurama/index.m3u" logo= "http://parrotrepo.000webhostapp.com/TV%20Shows/Icons/Futurama.jpg"
+name= Futurama url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Futurama/index.m3u" logo= "https://i.ibb.co/SBkYJ3m/Futurama.jpg"
 
 
-name= Případy Detektiva Murdocha url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Pripady%20Detektiva%20Murdocha/index.m3u" logo= "http://parrotrepo.000webhostapp.com/TV%20Shows/Icons/Murdoch%20Mysteries.jpg"
+name= Případy Detektiva Murdocha url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Pripady%20Detektiva%20Murdocha/index.m3u" logo= "https://i.ibb.co/xjGWTqm/Murdoch-Mysteries.jpg"
 
 name= Simpsonovi url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Simpsonovi/index.txt" logo= "https://i.ibb.co/fnDdjCj/The-Simpsons.jpg"
 
