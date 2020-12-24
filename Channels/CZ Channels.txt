@@ -28,8 +28,6 @@ name= Prima Zoom url= "http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/41049" log
 
 name= CNN Prima News url= "https://tv.parrottv.tk/CZCNNPrimaNews.m3u8" logo= "https://i.ibb.co/gmNCrRD/CNN-Prima-News.png"
 
-name= Epic Drama url= "http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/41059" logo= "https://i.ibb.co/5WSm5vX/Epic-Drama.png"
-
 name= Filmbox Premium url= "http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/17264" logo= "https://i.ibb.co/ftbGjz0/Filmbox-Premium.png"
 
 name= TV Noe url= "https://tv.parrottv.tk/CZTVNoe.m3u8" logo= "https://i.ibb.co/z7fQ7yJ/TV-Noe.png"
@@ -41,6 +39,18 @@ name= Šlágr url= "https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/pla
 name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "https://i.ibb.co/WxDvCry/Slagr2.png"
 
 name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "https://i.ibb.co/K0HR49p/TV-Natura.png"
+
+name= History url= "https://tv.parrottv.tk/CZHistory.m3u8" logo= "https://i.ibb.co/S7P1BzV/History.png"
+
+name= FilmBox Premium url= "https://tv.parrottv.tk/CZFilmboxPremium.m3u8" logo= "https://i.ibb.co/ftbGjz0/Filmbox-Premium.png"
+
+name= AMC url= "https://tv.parrottv.tk/CZAMC.m3u8" logo= "https://i.ibb.co/hV0B7F0/AMC.png"
+
+name= FilmBox Plus url= "https://tv.parrottv.tk/CZFilmBoxPlus.m3u8" logo= "https://i.ibb.co/2hJp4Hv/Film-Box-Plus.png"
+
+name= Fine Living url= "https://tv.parrottv.tk/CZFineLiving.m3u8" logo= "https://i.ibb.co/HH2vK76/Fine-Living.png"
+
+name= Nat Geo HD url= "https://tv.parrottv.tk/CZNatGeo.m3u8" logo= "https://i.ibb.co/pfznX57/Nat-Geo.png"
 
 
 
