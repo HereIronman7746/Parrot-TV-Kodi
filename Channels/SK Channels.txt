@@ -1,8 +1,3 @@
-name= STV 1 url= "https://n15.stv.livebox.sk/stv-tv/6258717058962aaa5ccc73395100ee26/SK-stv1.smil/chunklist_b2691072.m3u8" logo= "https://i.ibb.co/QKYLpb4/STV-1.png"
-
-name= STV 2 url= "https://n5.stv.livebox.sk/stv-tv/5d658b5b394d3e69417d7b401a1161a4/SK-stv2-mob.smil/chunklist_b950272.m3u8" logo= "https://i.ibb.co/nLTbzY8/STV-2.png"
-
-name= TA3 url= "https://n9.stv.livebox.sk/ta3/ad40a3eff0222145f5a69de1d742ac8c/1.smil/chunklist_b950272.m3u8" logo= "https://i.ibb.co/vcSFT8C/TA3.png"
 
 name= Markiza url= "https://tv.parrottv.tk/U7BGUM"  logo= "ag"
 
