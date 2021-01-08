@@ -24,9 +24,7 @@ name= Prima Cool url= "http://92.62.234.223/104/mystream.m3u8" logo= "https://i.
 
 name= Prima Love url= "http://92.62.234.223/101/mystream.m3u8" logo= "https://i.ibb.co/syZr536/Prima-Love.png"
 
-name= Filmbox Premium url= "http://iptvworld.nl:2095/aQgdkEq2Yu/deszsryVjZ/17264" logo= "https://i.ibb.co/ftbGjz0/Filmbox-Premium.png"
-
-name= TV Noe url= "https://tv.parrottv.tk/CZTVNoe.m3u8" logo= "https://i.ibb.co/z7fQ7yJ/TV-Noe.png"
+name= TV Noe url= "http://https:\\w100.quickmedia.tv\prozeta-live04\_definst_\prozeta-live04.smil\Playlist.m3u8?id=mPlc8ALRpFdHmK-03" logo= "https://i.ibb.co/z7fQ7yJ/TV-Noe.png"
 
 name= Retro url= "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8" logo= "https://i.ibb.co/YPtmSrV/Retro.png"
 
