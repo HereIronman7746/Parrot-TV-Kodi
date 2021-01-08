@@ -1,6 +1,3 @@
-
-name= Markiza url= "https://tv.parrottv.tk/U7BGUM"  logo= "ag"
-
 name= JoJ url= "http://nn2.joj.sk/hls/joj-720.m3u8" logo= "https://i.ibb.co/SccZK6g/JOJ.png"
 
 name= JoJ Plus url= "http://nn2.joj.sk/hls/jojplus-540.m3u8" logo= "https://i.ibb.co/G5VWSNM/Plus.png"
