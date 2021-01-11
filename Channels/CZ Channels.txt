@@ -44,56 +44,42 @@ name= Nickelodeon url= "http://iptvtree.net:8080/766a3d10/7781c6505e/46720" logo
 
 name= Prima MAX HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/21102" logo= "https://i.ibb.co/J2dBj46/Prima-Max.png"
 
-name= Prima Zoom HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/83397" logo= "g"
+name= Prima Zoom HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/83397" logo= "https://i.ibb.co/sJt9dJP/Prima-Zoom.png"
 
-name= Animal Planet url= "http://iptvtree.net:8080/766a3d10/7781c6505e/83381" logo= "g"
+name= Animal Planet url= "http://iptvtree.net:8080/766a3d10/7781c6505e/83381" logo= "https://i.ibb.co/RhT5F2w/Animal-Planet-OLD.jpg"
 
-name= AXN url= "http://iptvtree.net:8080/766a3d10/7781c6505e/21105" logo= "g"
+name= AXN url= "http://iptvtree.net:8080/766a3d10/7781c6505e/21105" logo= "https://i.ibb.co/MPGz3YJ/AXN.png"
 
-name= Fine Living url= "http://iptvtree.net:8080/766a3d10/7781c6505e/46700" logo= "g"
+name= Fine Living url= "http://iptvtree.net:8080/766a3d10/7781c6505e/46700" logo= "https://i.ibb.co/HH2vK76/Fine-Living.png"
 
-name= Fishing & Hunting url= "http://iptvtree.net:8080/766a3d10/7781c6505e/54216" logo= "g"
+name= Fishing & Hunting url= "http://iptvtree.net:8080/766a3d10/7781c6505e/54216" logo= "https://i.ibb.co/BzvrZWS/Fishing-Hunting.jpg"
 
-name= HBO HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23326" logo= "g"
+name= HBO HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23326" logo= "https://i.ibb.co/6W3t1Xh/HBO-HD.png"
 
-name= HBO 2 HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23321" logo= "g"
+name= DocuBox url= "http://iptvtree.net:8080/766a3d10/7781c6505e/201182" logo= "https://i.ibb.co/D9wqSvF/DocuBox.jpg"
 
-name= HBO 3 url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23319" logo= "g" 
+name= Disney Channel url= "http://iptvtree.net:8080/766a3d10/7781c6505e/21118" logo= "https://i.ibb.co/D9wqSvF/DocuBox.jpg"
 
-name= DocuBox url= "http://iptvtree.net:8080/766a3d10/7781c6505e/201182" logo= "g"
+name= Spectrum FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/70785" logo= "https://i.ibb.co/6mK10SN/Spectrum.jpg"
 
-name= CT D HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/201181" logo= "g"
+name= Spectrum Home url= "http://iptvtree.net:8080/766a3d10/7781c6505e/193599" logo= "https://i.ibb.co/r0VVqkk/Specrum-Home.jpg"
 
-name= Disney Channel url= "http://iptvtree.net:8080/766a3d10/7781c6505e/21118" logo= "g"
+name= CS Film url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146939" logo= "https://i.ibb.co/P6x66vL/CS-Film.jpg"
 
-name= Spectrum FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/70785" logo= "g"
+name= CS Mini url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146935" logo= "https://i.ibb.co/CzBfbx0/CS-Mini.jpg"
 
-name= Spectrum Home url= "http://iptvtree.net:8080/766a3d10/7781c6505e/193599" logo= "g"
+name= FilmBox FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/67340" logo= "https://i.ibb.co/CtDZ73q/FilmBox.jpg"
 
-name= Viasat FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/174694" logo= "g"
+name= FilmBox Family url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146937" logo= "https://i.ibb.co/zXSc2cc/Film-Box-Family.jpg"
 
-name= Film Plus url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146939" logo= "g"
+name= FilmBox Plus url= "http://iptvtree.net:8080/766a3d10/7781c6505e/22401" logo= "https://i.ibb.co/Z85JtxT/Film-Box-Plus.jpg"
 
-name= FilmBox Extra FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/46701" logo= "g"
+name= Discovery url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23301" logo= "https://i.ibb.co/8MvFXBh/Discovery.jpg"
 
-name= FilmBox Family url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146937" logo= "g"
+name= Discovery Science url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146933" logo= "https://i.ibb.co/N78y7QJ/Discovery-Science.jpg"
 
-name= FilmBox FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/67340" logo= "g"
+name= Boomerang url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146932" logo= "https://i.ibb.co/TB4HSTD/Boomerang.jpg"
 
-name= FilmBox Plus url= "http://iptvtree.net:8080/766a3d10/7781c6505e/22401" logo= "g"
+name= Nat Geo HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/21116" logo= "https://i.ibb.co/Vms0y3P/Nat-Geo.jpg"
 
-name= FilmBox Premium url= "http://iptvtree.net:8080/766a3d10/7781c6505e/46699" logo= "g"
-
-name= UP Network url= "http://iptvtree.net:8080/766a3d10/7781c6505e/83417" logo= "g"
-
-name= Discovery url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23301" logo= "g"
-
-name= Discovery Science url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146933" logo= "g"
-
-name= CS Mini url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146935" logo= "g"
-
-name= Boomerang url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146932" logo= "g"
-
-name= Nat Geo HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/21116" logo= "g"
-
-name= Nat Geo Wild FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23311" logo= "g"
+name= Nat Geo Wild FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23311" logo= "https://i.ibb.co/zNDw32X/Nat-Geo-Wild.jpg"
