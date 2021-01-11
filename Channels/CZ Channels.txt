@@ -44,4 +44,6 @@ name= Nickelodeon url= "http://iptvtree.net:8080/766a3d10/7781c6505e/46720" logo
 
 name= Prima MAX HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/21102" logo= "https://i.ibb.co/J2dBj46/Prima-Max.png"
 
+name= Prima Zoom HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/83397" logo= "g"
+
 name= Viasat History url= "http://iptvtree.net:8080/766a3d10/7781c6505e/46725" logo= "g"
