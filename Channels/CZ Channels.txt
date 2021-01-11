@@ -83,3 +83,11 @@ name= Boomerang url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146932" logo=
 name= Nat Geo HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/21116" logo= "https://i.ibb.co/Vms0y3P/Nat-Geo.jpg"
 
 name= Nat Geo Wild FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23311" logo= "https://i.ibb.co/zNDw32X/Nat-Geo-Wild.jpg"
+
+name= CT 1 HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/121563" logo= "https://i.ibb.co/JQF22cj/CT-1.jpg"
+
+name= CT 2 HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/174705" logo= "https://i.ibb.co/Gc5YqwQ/CT-2.jpg"
+
+name= CT 24 HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23320" logo= "https://i.ibb.co/hyw6pgp/CT-24.jpg"
+
+name= CT D HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/151688" logo= "https://i.ibb.co/XsxxprR/CT-D.jpg"
