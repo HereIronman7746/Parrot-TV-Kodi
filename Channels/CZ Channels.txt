@@ -35,5 +35,5 @@ name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "https://i.ibb.co/W
 name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "https://i.ibb.co/K0HR49p/TV-Natura.png"
 
 
-
+name= more url="https://dailyiptvlist.com/dl/cz-m3uplaylist-2021-01-10-1.m3u" logo° "g"
 
