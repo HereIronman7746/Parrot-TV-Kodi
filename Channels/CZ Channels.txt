@@ -46,4 +46,54 @@ name= Prima MAX HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/21102" log
 
 name= Prima Zoom HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/83397" logo= "g"
 
-name= Viasat History url= "http://iptvtree.net:8080/766a3d10/7781c6505e/46725" logo= "g"
+name= Animal Planet url= "http://iptvtree.net:8080/766a3d10/7781c6505e/83381" logo= "g"
+
+name= AXN url= "http://iptvtree.net:8080/766a3d10/7781c6505e/21105" logo= "g"
+
+name= Fine Living url= "http://iptvtree.net:8080/766a3d10/7781c6505e/46700" logo= "g"
+
+name= Fishing & Hunting url= "http://iptvtree.net:8080/766a3d10/7781c6505e/54216" logo= "g"
+
+name= HBO HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23326" logo= "g"
+
+name= HBO 2 HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23321" logo= "g"
+
+name= HBO 3 url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23319" logo= "g" 
+
+name= DocuBox url= "http://iptvtree.net:8080/766a3d10/7781c6505e/201182" logo= "g"
+
+name= CT D HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/201181" logo= "g"
+
+name= Disney Channel url= "http://iptvtree.net:8080/766a3d10/7781c6505e/21118" logo= "g"
+
+name= Spectrum FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/70785" logo= "g"
+
+name= Spectrum Home url= "http://iptvtree.net:8080/766a3d10/7781c6505e/193599" logo= "g"
+
+name= Viasat FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/174694" logo= "g"
+
+name= Film Plus url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146939" logo= "g"
+
+name= FilmBox Extra FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/46701" logo= "g"
+
+name= FilmBox Family url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146937" logo= "g"
+
+name= FilmBox FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/67340" logo= "g"
+
+name= FilmBox Plus url= "http://iptvtree.net:8080/766a3d10/7781c6505e/22401" logo= "g"
+
+name= FilmBox Premium url= "http://iptvtree.net:8080/766a3d10/7781c6505e/46699" logo= "g"
+
+name= UP Network url= "http://iptvtree.net:8080/766a3d10/7781c6505e/83417" logo= "g"
+
+name= Discovery url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23301" logo= "g"
+
+name= Discovery Science url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146933" logo= "g"
+
+name= CS Mini url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146935" logo= "g"
+
+name= Boomerang url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146932" logo= "g"
+
+name= Nat Geo HD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/21116" logo= "g"
+
+name= Nat Geo Wild FHD url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23311" logo= "g"
