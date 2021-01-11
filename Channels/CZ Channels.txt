@@ -34,5 +34,8 @@ name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "https://i.ibb.co/W
 
 name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "https://i.ibb.co/K0HR49p/TV-Natura.png"
 
+Name= _________________________________________ Limited Time / Obmedzení Čas ________________________________________________ url= "MNW" logo= "g"
+
 name= AMC url= "http://iptvtree.net:8080/766a3d10/7781c6505e/23314" logo= "https://i.ibb.co/hV0B7F0/AMC.png"
 
+name= History url= "http://iptvtree.net:8080/766a3d10/7781c6505e/146940" logo= "https://i.ibb.co/S7P1BzV/History.png"
