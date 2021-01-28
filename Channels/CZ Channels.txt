@@ -37,3 +37,35 @@ name= Šlágr url= "https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/pla
 name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "https://i.ibb.co/WxDvCry/Slagr2.png"
 
 name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "https://i.ibb.co/K0HR49p/TV-Natura.png"
+
+
+
+name= ------ May not work / Nemusí fungovať / Nemusí fungovat ------ url= "g" logo= "g"
+
+name= History url= "https://tv.parrottv.tk/CZHistory.m3u8" logo= "https://i.ibb.co/S7P1BzV/History.png"
+
+name= AXN Black url= "https://tv.parrottv.tk/CZAXNBlack.m3u8" logo= "df"
+
+name= Film Plus url= "https://tv.parrottv.tk/CZFilm+" logo= "fd"
+
+name= Prima Zoom url= "https://tv.parrottv.tk/CZPrimaZoom.m3u8" logo= "df"
+
+name= Nat Geo url= "https://tv.parrottv.tk/NatGeo.m3u8" logo= "fd"
+
+name= Nat Geo Wild url= "https://tv.parrottv.tk/CZNatGeoWild.m3u8" logo= "fd"
+
+name= HBO url= "https://tv.parrottv.tk/CZHBO.m3u8" logo= "fd"
+
+name= HBO 2 url= "https://tv.parrottv.tk/CZHBO2.m3u8" logo= "fd"
+
+name= HBO 3 url= "https://tv.parrottv.tk/CZHBO3.m3u8" logo= "d"
+
+name= Fishing & Hunting url= "https://tv.parrottv.tk/CZF&H.m3u8" logo= "f"
+
+name= Nickelodeon url= "https://tv.parrottv.tk/CZNickelodeon.n3u8" logo= "d"
+
+name= Disney Channel url= "https://tv.parrottv.tk/CZDisney.m3u8" logo= "f"
+
+name= Boomerang url= "https://tv.parrottv.tk/CZBoomerang.m3u8" logo= ""
+
+
