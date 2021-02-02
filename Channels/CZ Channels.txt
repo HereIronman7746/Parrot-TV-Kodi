@@ -68,6 +68,6 @@ name= Nickelodeon url= "https://tv.parrottv.tk/CZNickelodeon.n3u8" logo= "d"
 
 name= Disney Channel url= "https://tv.parrottv.tk/CZDisney.m3u8" logo= "f"
 
-name= Boomerang url= "https://tv.parrottv.tk/CZBoomerang.m3u8" logo= ""
+name= Boomerang url= "https://tv.parrottv.tk/CZBoomerang.m3u8" logo= "h"
 
 
