@@ -40,34 +40,37 @@ name= Šlágr 2 url= "http://92.62.234.233/slagr2.m3u" logo= "https://i.ibb.co/W
 
 name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "https://i.ibb.co/K0HR49p/TV-Natura.png"
 
+name= Východočeská TV url= "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:hlscat.com" logo= "https://i.ibb.co/ggWW1L0/VCTV.png"
 
 
 name= ------ May not work / Nemusí fungovať / Nemusí fungovat ------ url= "g" logo= "g"
 
 name= History url= "https://tv.parrottv.tk/CZHistory.m3u8" logo= "https://i.ibb.co/S7P1BzV/History.png"
 
-name= AXN Black url= "https://tv.parrottv.tk/CZAXNBlack.m3u8" logo= "df"
+name= AXN Black url= "https://tv.parrottv.tk/CZAXNBlack.m3u8" logo= "https://i.ibb.co/kV7sJjJ/AXN-Black.png"
 
-name= Film Plus url= "https://tv.parrottv.tk/CZFilm+" logo= "fd"
+name= CS Film url= "https://tv.parrottv.tk/CZFilm+" logo= "https://i.ibb.co/P6x66vL/CS-Film.jpg"
 
-name= Prima Zoom url= "https://tv.parrottv.tk/CZPrimaZoom.m3u8" logo= "df"
+name= Prima Zoom url= "https://tv.parrottv.tk/CZPrimaZoom.m3u8" logo= "https://i.ibb.co/c6jK5m8/Prima-Zoom.png"
 
-name= Nat Geo url= "https://tv.parrottv.tk/NatGeo.m3u8" logo= "fd"
+name= Nat Geo url= "https://tv.parrottv.tk/NatGeo.m3u8" logo= "https://i.ibb.co/W2y92yL/Nat-Geo.png"
 
-name= Nat Geo Wild url= "https://tv.parrottv.tk/CZNatGeoWild.m3u8" logo= "fd"
+name= Nat Geo Wild url= "https://tv.parrottv.tk/CZNatGeoWild.m3u8" logo= "https://i.ibb.co/W2y92yL/Nat-Geo.png
+https://i.ibb.co/w6VKTVF/Nat-Geo-Wild.png"
 
-name= HBO url= "https://tv.parrottv.tk/CZHBO.m3u8" logo= "fd"
+name= HBO url= "https://tv.parrottv.tk/CZHBO.m3u8" logo= "https://i.ibb.co/6W3t1Xh/HBO-HD.png"
 
-name= HBO 2 url= "https://tv.parrottv.tk/CZHBO2.m3u8" logo= "fd"
+name= HBO 2 url= "https://tv.parrottv.tk/CZHBO2.m3u8" logo= "https://i.ibb.co/prCmrkc/HBO-2.png"
 
-name= HBO 3 url= "https://tv.parrottv.tk/CZHBO3.m3u8" logo= "d"
+name= HBO 3 url= "https://tv.parrottv.tk/CZHBO3.m3u8" logo= "https://i.ibb.co/prCmrkc/HBO-2.png
+https://i.ibb.co/hW6fbbJ/HBO-3.png"
 
-name= Fishing & Hunting url= "https://tv.parrottv.tk/CZF&H.m3u8" logo= "f"
+name= Fishing & Hunting url= "https://tv.parrottv.tk/CZF&H.m3u8" logo= "https://i.ibb.co/BzvrZWS/Fishing-Hunting.jpg"
 
-name= Nickelodeon url= "https://tv.parrottv.tk/CZNickelodeon.n3u8" logo= "d"
+name= Nickelodeon url= "https://tv.parrottv.tk/CZNickelodeon.n3u8" logo= "https://i.ibb.co/ZHnW13f/Nickelodeon.png"
 
-name= Disney Channel url= "https://tv.parrottv.tk/CZDisney.m3u8" logo= "f"
+name= Disney Channel url= "https://tv.parrottv.tk/CZDisney.m3u8" logo= "https://i.ibb.co/Wnj2gpC/Disney-Channel.png"
 
-name= Boomerang url= "https://tv.parrottv.tk/CZBoomerang.m3u8" logo= "h"
+name= Boomerang url= "https://tv.parrottv.tk/CZBoomerang.m3u8" logo= "https://i.ibb.co/G76hW8c/Boomerang.png"
 
 
