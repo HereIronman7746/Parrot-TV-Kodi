@@ -24,6 +24,8 @@ name= Prima Cool url= "http://92.62.234.223/104/mystream.m3u8" logo= "https://i.
 
 name= Prima Love url= "http://92.62.234.223/101/mystream.m3u8" logo= "https://i.ibb.co/syZr536/Prima-Love.png"
 
+name= CNN Prima News url= "https://prima-ott-live-sec.ssl.cdn.cra.cz/mbbb7fhS70KyVYgsHwpokQ==,1612365910/channels/prima_cnn/playlist/cze/live_mq.m3u8?offsetSeconds=0&url=0" logo= "https://i.ibb.co/gmNCrRD/CNN-Prima-News.png"
+
 name= HunterTV url= "http://www.huntertv.cz/live/4-playlist.m3u8" logo= "https://i.ibb.co/tzNHRp9/HunterTV.png"
 
 name= Praha TV url= "https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8" logo= "https://i.ibb.co/yqrcmvW/PrahaTV.png"
