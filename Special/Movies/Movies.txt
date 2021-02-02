@@ -2,4 +2,4 @@ name= Spongebob ve Filmu: Houba Na Útěku [CZ Dabing] [2020] url= "https://file
 
 name= Spongebob ve Filmu: Houba Na Suchu [CZ Dabing] [2015] url= "https://files.fm/down.php?i=etgfyb5uy" logo= "https://i.ibb.co/bzwL5b7/Spongebob-Sponge-Out-Of-Water.jpg"
 
-name= Spongevov Ve Filmu [CZ Dabing] [2004] url= "https://files.fm/down.php?i=k8mpkg7kd" logo= "https://i.ibb.co/Sn2HkJc/Spongebob-Ve-Filmu-2004.jpg"
+name= Spongebob ve Filmu  [CZ Dabing] [2004] url= "https://files.fm/down.php?i=k8mpkg7kd" logo= "https://i.ibb.co/Sn2HkJc/Spongebob-Ve-Filmu-2004.jpg"
