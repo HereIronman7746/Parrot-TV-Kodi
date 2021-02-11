@@ -8,8 +8,164 @@ name= Kool TV url= "http://173.199.158.79:1935/roku/myStream/playlist.m3u8" logo
 
 name= MLB Network url= "http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8" logo= "https://i.ibb.co/9Tp0LFC/MLB-Network.png"
 
-name= Red Bull TV url= "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8" logo= "https://i.ibb.co/qDn276C/Red-Bull-TV.png"
-
 name= Weather Channel url= "http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8" logo= "https://i.ibb.co/5rvjb9s/Weather-Channel.png"
 
 
+
+name= ABC News url= "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8" logo= "https://i.imgur.com/7sJLzKi.png"
+
+name= ACC url= "https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/UbUZw9E.png"
+
+name= CBSN url= "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8" logo= "https://i.imgur.com/nki2HDQ.png"
+
+name= CBN Family url= "https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8" logo= "https://i.imgur.com/2t6Dux1.png"
+
+name= CBN News url= "https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8" logo= "https://www.cbn.com/images8/cbnnews/CBN-OG.jpg"
+
+name= Chef Champion url= "https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8" logo= "https://i.imgur.com/qj7DSnR.png"
+
+name= Clarity 4k url= "https://d1ilhlah7f9uzc.cloudfront.net/playlist.m3u8" logo= "https://i.imgur.com/A1xZDrV.png"
+
+name= Comedy Dynamics url= "https://comedydynamics-wurl.cinedigm.com/playlist.m3u8" logo= "https://i.imgur.com/TQa7yvL.png"
+
+name= Court TV Mystery url= "https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8" logo= "https://i.imgur.com/f0FtDEI.png"
+
+name= Crime 360 url= "https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/uZPmFMY.png"
+
+name= Cycle World url= "http://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8" logo= "https://i.imgur.com/rAkIuW1.png"
+
+name= Danger TV url= "https://dangertv.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/4aTk45R.png"
+
+name= History Channel url= "https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8" logo= "https://i.ibb.co/S7P1BzV/History.png"
+
+name= Docubay url= "https://docubaylivestreams.akamaized.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004370_HLS/manifest.m3u8" logo= "https://i.imgur.com/4Bj3h7W.png"
+
+name= Docurama url= "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8" logo= "https://i.imgur.com/XkQPJXM.jpg"
+
+name= Dove Channel url= "https://dovenow.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/FVWqYQG.png"
+
+name= DryBar Comedy url= "https://drybar-drybarcomedy-1.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/nUXwP5M.png
+
+name= Dust url= "https://dust.sinclair.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/q2jim9n.png"
+
+name= Flashback TV url= "http://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8" logo= "https://i.imgur.com/KtdEoox.png"
+
+name= Fox News Now url= "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8" logo= "https://i.imgur.com/hc5a1YP.png"
+
+name= Fox Soul url= "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8" logo= "https://i.imgur.com/tBvEL2d.png"
+
+name= HSN url= "https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8" logo= "https://i.imgur.com/zkaqNkN.png"
+
+name= HSN 2 url= "https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8" logo= "https://i.imgur.com/5X0GYny.png"
+
+name= Hungry url= "https://food.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/MIUDYh0.png"
+
+name= Hunt Channel url= "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8" logo= "https://i.imgur.com/DkvWWbE.png"
+
+name= InfoWars TV url= "https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8" logo= ""
+
+name= JBS url= "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8" logo= "https://i.imgur.com/pHJm3I0.png"
+
+name= KBVR TV url= "http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8" logo= "https://i.imgur.com/0oRXnzz.png"
+
+name= KET url= "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR" logo= "https://i.imgur.com/ocMGZM6.png"
+
+name= KET PBS Kids url= "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR" logo= "https://i.imgur.com/ambc9le.png"
+
+name= Kidoodle url= "https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/MaFtbM5.png"
+
+name= Law And Crime url= "https://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/HY64Nhe.png"
+
+name= Lego Channel url= "https://legochannel-roku.amagi.tv/playlist.m3u8" logo= "https://i.imgur.com/xePwW13.png"
+
+name= Magellan TV url= "https://magellantv-1.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/6osyvwh.png"
+
+name= Motorvision TV url= "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8" logo= "https://i.imgur.com/ccJiasu.png"
+
+name= MovieMix url= "https://moviemix.samsung.wurl.com/manifest/playlist.m3u8" logo= ""
+
+name= MovieSpehere TV url= "https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8" logo= "https://i.imgur.com/DTXQ3Pc.png"
+
+name= Mithos url= "https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8" logo= "https://i.imgur.com/JBEqPZP.png"
+
+name= NASA TV url= "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8" logo= "https://i.imgur.com/LnonnQm.png"
+
+name= NBCLX url= "https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8" logo= "https://i.imgur.com/FPt2WNf.jpg"
+
+name= Newsmax TV url= "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8" logo= "https://i.imgur.com/L0PC2YI.png"
+
+name= NewsNet url= "http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8" logo= "https://i.imgur.com/Fc40om4.jpg"
+
+name= Newsy url= "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb" logo= "https://i.imgur.com/Otw0sN1.png"
+
+name= Nothing Scripted url= "http://30a-tv.com/NothingScripted.m3u8" logo= "https://i.imgur.com/QSH4Z4p.png"
+
+name= NRB TV url= "http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8" logo= "https://i.imgur.com/FUUFhoW.jpg"
+
+name= NTD url= "https://live.ntdimg.com/en01live900/playlist.m3u8" logo= "https://yt3.ggpht.com/ytc/AAUvwngGTykWDjGMeyuKjmUrYyh_PlijSZacKPUK32s94Q=s900-c-k-c0x00ffffff-no-rj"
+
+name= One America News url= "http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8" logo= "https://i.imgur.com/G6e7Hcl.png"
+
+name= Orange TV url= "http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8" logo= "https://i.imgur.com/VF3Mlwa.jpg"
+
+name= OUR TV url= "https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/chunklist.m3u8" logo= "https://i.imgur.com/9uz9lyg.png"
+
+name= Outdoor America url= "https://obsession-media-sinclair.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/fZDrLpd.png"
+
+name= Outside TV+ url= "https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/1CViR0E.png"
+
+name= Peace TV url= "http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8" logo= "https://i.imgur.com/6DB5ChS.png"
+
+name= Plant-Based Network url= "https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8" logo= "https://i.imgur.com/iwd9Jxb.png"
+
+name= Popular Science TV url= "http://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8" logo= "https://i.imgur.com/jNoOxxz.png"
+
+name= Red Bull TV url= "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8" logo= "https://i.imgur.com/TvmeXdZ.png"
+
+name= Prime Time Drama url= "https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8" logo= "https://i.imgur.com/K36sd0M.png"
+
+name= Samsung WildLife url= "https://d23gend7a1exlu.cloudfront.net/playlist.m3u8" logo= "https://i.imgur.com/x06npU2.png"
+
+name= Screamfest url= "https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8" logo= "https://i.imgur.com/FtrMhwH.png"
+
+name= Smart LifeStyle url= "https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on" logo= "https://i.imgur.com/UyIkHU3.png"
+
+name= Stadium url= "http://stadium.sinclair.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/n38w3FD.png"
+
+name= Sterling Drama url= "https://endemol-sterlingdrama-1.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/LmJCRMJ.jpg"
+
+name= Stingray Naturescape url= "https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/sw1LtJ4.png"
+
+name= Tsastemade url= "https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8" logo= "https://i.imgur.com/e7EDq02.png"
+
+name= Tag TV url= "https://cdn30.liveonlineservices.com/hls/tagtv.m3u8" logo= "https://i.imgur.com/3YwJzZg.png"
+
+name= The Asylum url= "http://asylum-stirr.amagi.tv/playlist.m3u8" logo= "https://i.imgur.com/1pxXEtP.png"
+
+name= The Outdoor Cooking Channel url= "http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8" logo= "https://i.imgur.com/03XLqNz.png"
+
+name= The Wall Street Journal url= "https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8" logo= "https://i.imgur.com/ZzyXAKm.jpg"
+
+name= This TV Network url= "https://cdn.igocast.com/channel11_hls/channel11_master.m3u8" logo= "https://i.imgur.com/FQCVaSR.png"
+
+name= TG Junior url= "https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/12Vkj60.png"
+
+name= This Old House url= "https://thisoldhouse.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/lbOPCEJ.png"
+
+name= Tiny House Nation url= "https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/o8ooqA1.png"
+
+name= Toon Goggles url= "https://toon-goggles.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/oyIMxzM.png"
+
+name= Watch It Kid url= "http://content-ausw2.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8" logo= "https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/watchitKid/logo_small.png"
+
+name= Waypoint Outdoors url= "https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/moVEMe0.png"
+
+name= Weather Nation url= "http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8" logo= "https://i.imgur.com/X23p0GB.png"
+
+name= Whistle TV url= "https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/CNO8eQ7.png"
+
+name= Xplore url= "http://xlpore-samsungus.amagi.tv/playlist.m3u8" logo= "https://i.imgur.com/QQuPjTD.png"
+
+name= Z Living url= "https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8" logo= "https://i.imgur.com/c3Z5i2L.png"
+
+name= ZooMoo url= "https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8" logo= "https://i.imgur.com/85LA7Zm.png"
