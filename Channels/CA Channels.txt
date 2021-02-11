@@ -1,0 +1,53 @@
+name= 5AAB TV url= "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8" logo= "https://i.imgur.com/k9M5ydW.png"
+
+name= Amazing Discoveries TV url= "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8" logo= "https://i.imgur.com/zXWgbVk.png"
+
+name= BBC Toronto Gaunda Punjab url= "http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8" logo= "https://i.imgur.com/uSX4YXL.png"
+
+name= Canada One url= "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8" logo= "https://i.imgur.com/zr6KoiS.jpg"
+
+name= Canada Star TV url= "http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u" logo= "https://i.imgur.com/3Q9Nxj1.jpg"
+
+name= CBC News Network url= "https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8" logo= "https://i.ibb.co/k10fJ8b/CBC-News-Network.png"
+
+name= CPAC url= "https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8" logo= "https://i.imgur.com/wwmapsS.png"
+
+name= EWTN Canada url= "https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8" logo= "https://i.imgur.com/Rxuem4o.png"
+
+name= Global British Columbia url= "https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8" logo= "https://i.imgur.com/bcHP3Vg.png"
+
+name= Global Calgary url= "https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8" logo= "https://i.imgur.com/ppMNSKT.png"
+
+name= Global Edmonton url= "https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index.m3u8" logo= "https://i.imgur.com/7R10c5i.png"
+
+name= Global News url= "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8" logo= "https://i.imgur.com/mhhVQE6.png"
+
+name= Global Toronto url= "https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8" logo= "https://i.imgur.com/wlqYdqN.png"
+
+name= IIPC TV url= "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8" logo= "https://i.imgur.com/G7hGk8y.png"
+
+name= Legislative Assembly of Ontario url= "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8" logo= "https://i.imgur.com/4gL9GEa.png"
+
+name= Montreal Greek TV url= "http://94.130.180.175:8081/live/greektv/playlist.m3u8" logo= "https://i.imgur.com/eNu3N0f.png"
+
+name= NTV url= "https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8" logo= "https://i.imgur.com/J9EMPjf.png"
+
+name= Ovation url= "https://bozztv.com/teleyupp/teleup-ovation/playlist.m3u8" logo= "https://i.ibb.co/rdqD21D/Ovation.png"
+
+name= Pardesi TV url= "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8" logo= "https://i.imgur.com/CwAdPpZ.jpg"
+
+name= Prime Asia TV url= "http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8" logo= "https://i.imgur.com/LdGWsGj.png"
+
+name= Prime Canada TV url= "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8" logo= "https://i.ibb.co/zhzNkRB/Prime-Canada-TV.gif"
+
+name= QVTV url= "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8" logo= "https://i.imgur.com/X9LBFzK.jpg"
+
+name= Sardari TV url= "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8" logo= "https://i.imgur.com/AhbJjPL.jpg"
+
+name= TAG TV url= "http://cdn11.live247stream.com/tag/tv/playlist.m3u8" logo= "https://i.imgur.com/4PA2adF.png"
+
+name= Tamil Vision TV url= "http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8" logo= "https://i.imgur.com/jSWRXdg.png"
+
+name= Toronto 360 TV url= "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8" logo= "https://i.imgur.com/PkWndsv.png"
+
+name= TV 16 Toronto url= "http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8" logo= "https://i.imgur.com/brxkNbw.png"
