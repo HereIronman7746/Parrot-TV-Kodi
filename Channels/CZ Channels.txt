@@ -63,8 +63,7 @@ name= Prima Zoom url= "https://tv.parrottv.tk/CZPrimaZoom.m3u8" logo= "https://i
 
 name= Nat Geo url= "https://tv.parrottv.tk/NatGeo.m3u8" logo= "https://i.ibb.co/W2y92yL/Nat-Geo.png"
 
-name= Nat Geo Wild url= "https://tv.parrottv.tk/CZNatGeoWild.m3u8" logo= "https://i.ibb.co/W2y92yL/Nat-Geo.png
-https://i.ibb.co/w6VKTVF/Nat-Geo-Wild.png"
+name= Nat Geo Wild url= "https://tv.parrottv.tk/CZNatGeoWild.m3u8" logo= "https://i.ibb.co/w6VKTVF/Nat-Geo-Wild.png"
 
 name= HBO url= "https://tv.parrottv.tk/CZHBO.m3u8" logo= "https://i.ibb.co/6W3t1Xh/HBO-HD.png"
 
