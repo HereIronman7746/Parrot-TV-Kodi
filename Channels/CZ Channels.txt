@@ -69,8 +69,7 @@ name= HBO url= "https://tv.parrottv.tk/CZHBO.m3u8" logo= "https://i.ibb.co/6W3t1
 
 name= HBO 2 url= "https://tv.parrottv.tk/CZHBO2.m3u8" logo= "https://i.ibb.co/prCmrkc/HBO-2.png"
 
-name= HBO 3 url= "https://tv.parrottv.tk/CZHBO3.m3u8" logo= "https://i.ibb.co/prCmrkc/HBO-2.png
-https://i.ibb.co/hW6fbbJ/HBO-3.png"
+name= HBO 3 url= "https://tv.parrottv.tk/CZHBO3.m3u8" logo= "https://i.ibb.co/hW6fbbJ/HBO-3.png"
 
 name= Fishing & Hunting url= "https://tv.parrottv.tk/CZF&H.m3u8" logo= "https://i.ibb.co/BzvrZWS/Fishing-Hunting.jpg"
 
