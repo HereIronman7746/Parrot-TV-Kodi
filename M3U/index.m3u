@@ -1,1 +1,15 @@
-
+#EXTM3U 
+#EXTINF: -1 tvg-id="SK Channels" tvg-name="SK Channels" tvg-chno="1" tvg-logo="https://i.ibb.co/2cH2kVB/SK.jpg" group-title="Select", SK Channels
+https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Channels/SK.m3u
+#EXTINF: -1 tvg-id="CZ Channels" tvg-name="CZ Channels" tvg-chno="2" tvg-logo="https://i.ibb.co/mb6Q81H/CZ.jpg" group-title="Select", CZ Channels
+https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Channels/CZ.m3u
+#EXTINF: -1 tvg-id="DE Channels" tvg-name="DE Channels" tvg-chno="3" tvg-logo="https://i.ibb.co/6W5CN1r/DE.jpg" group-title="Select", DE Channels
+https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Channels/DE.m3u
+#EXTINF: -1 tvg-id="US Channels" tvg-name="US Channels" tvg-chno="4" tvg-logo="https://i.ibb.co/N3NqB1n/US.jpg" group-title="Select", US Channels
+https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Channels/US.m3u
+#EXTINF: -1 tvg-id="UK Channels" tvg-name="UK Channels" tvg-chno="5" tvg-logo="https://i.ibb.co/gmzNmJt/UK.png" group-title="Select", UK Channels
+https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Channels/UK.m3u
+#EXTINF: -1 tvg-id="CA Channels" tvg-name="CA Channels" tvg-chno="6" tvg-logo="https://i.ibb.co/1b4HVfQ/CA.png" group-title="Select", CA Channels
+https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Channels/CA.m3u
+#EXTINF: -1 tvg-id="Futurama" tvg-name="Futurama" tvg-chno="100" tvg-logo="https://i.ibb.co/SBkYJ3m/Futurama.jpg" group-title="Select", Futurama
+https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Special/Futurama/index.m3u
