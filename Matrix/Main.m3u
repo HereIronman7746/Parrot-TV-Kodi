@@ -1611,3 +1611,16 @@ https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/T
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama",Futurama - Season 7
 https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Futurama/Season%207.m3u
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/LrZ2Rcn/Spongebob-Sponge-On-The-Run.jpg" group-title="Movies",Spongebob ve Filmu: Houba Na Útěku [CZ Dabing] [2020]
+https://files.fm/down.php?i=nhumjsc9j
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/bzwL5b7/Spongebob-Sponge-Out-Of-Water.jpg" group-title="Movies",Spongebob ve Filmu: Houba Na Suchu [CZ Dabing] [2015]
+https://files.fm/down.php?i=etgfyb5uy
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/Sn2HkJc/Spongebob-Ve-Filmu-2004.jpg" group-title="Movies",Spongebob ve Filmu  [CZ Dabing] [2004]
+https://files.fm/down.php?i=k8mpkg7kd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EN" tvg-language="English" tvg-logo="https://i.ibb.co/zN1MPXj/The-Windermere-Children.jpg" group-title="Movies",The Windermere Children [EN + CZ Tit] [2020]
+https://files.fm/down.php?i=r6fpnuwrz
