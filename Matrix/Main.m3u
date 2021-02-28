@@ -1590,26 +1590,425 @@ https://de1se01.v2beat.live/playlist.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama",Futurama - Season 1
-https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Futurama/Season%201.m3u
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama - Season 1",Futurama - S01E01 | Vesmírný pilot 3000
+https://files.fm/down.php?i=7vvmyrgj3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama",Futurama - Season 2
-https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Futurama/Season%202.m3u
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama - Season 1",Futurama - S01E02 | Na Měsíc a dál
+https://files.fm/down.php?i=w8jsk24ta
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama",Futurama - Season 3
-https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Futurama/Season%203.m3u
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama - Season 1",Futurama - S01E03 | Nejlepší přítel robota
+https://files.fm/down.php?i=86nknntbr
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama",Futurama - Season 4
-https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Futurama/Season%204.m3u
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama - Season 1",Futurama - S01E04 | Marná vesmírné lásky snaha	
+https://files.fm/down.php?i=xaxef4pmj
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama",Futurama - Season 5
-https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Futurama/Season%205.m3u
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama - Season 1",Futurama - S01E05 | Útěk z Planety robotů
+https://files.fm/down.php?i=u4mnukbwy
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama",Futurama - Season 6
-https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Futurama/Season%206.m3u
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama - Season 1",Futurama - S01E06 | Konzerva za všechny prachy
+https://files.fm/down.php?i=h2rhf22d4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama",Futurama - Season 7
-https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Futurama/Season%207.m3u
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama - Season 1",Futurama - S01E07 | Má tři slunce
+https://files.fm/down.php?i=h2rhf22d4
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama - Season 1",Futurama - S01E08 | Drtivý odpad
+https://files.fm/down.php?i=35dsvckcy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama - Season 1",Futurama - S01E09 | Peklo jsou ti druzí roboti
+https://files.fm/down.php?i=j6hc8y7v2
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama - Season 1",Futurama - S01E10 | Zkáza Titanicu
+https://files.fm/down.php?i=4kxwgabqj
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama - Season 1",Futurama - S01E11 | Marťanská univerzita
+https://files.fm/down.php?i=ry9u2pttx
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama - Season 1",Futurama - S01E12 | Den závislosti
+https://files.fm/down.php?i=4n7b3gxy3
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/vhZZW3d/Season-1.jpg" group-title="Futurama - Season 1",Futurama - S01E13 | Fry a továrna na Slurm
+https://files.fm/down.php?i=4vqkcww5j
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E01 | Citové pouto
+https://files.fm/down.php?i=dmhq57wsg
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E02 | Brannigen vrací úder
+https://files.fm/down.php?i=xjs4b8mf4
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E03 | Do voleb hlava nehlava
+https://files.fm/down.php?i=w5ngebsfs
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E04 | První společné V. V. ce
+https://files.fm/down.php?i=qxyqf725f
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E05 | Zamilovaný korýš
+https://files.fm/down.php?i=sq4dfmxbj
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E06 | To menší zlo
+https://files.fm/down.php?i=hjbzsmha2
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E07 | Mám tě po krk
+https://files.fm/down.php?i=nqe7crm37
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E08 | Zuřící Bender
+https://files.fm/down.php?i=j66b9ygy5
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E09 | O původu kyklopů
+https://files.fm/down.php?i=bv4x8h8k4
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E10 | To je on, můj klon
+https://files.fm/down.php?i=5fmxhs6er
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E11 | Ve spárech byrokracie
+https://files.fm/down.php?i=qw8avkmuh
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E12 | Bájné město Atlanta
+https://files.fm/down.php?i=6djes55zb
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E13 | Mafián Bender
+https://files.fm/down.php?i=dm7wwyfaf
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E14 | Den matky
+https://files.fm/down.php?i=w5e6ja9hb
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E15 | Trable s poplíky
+https://files.fm/down.php?i=a6mcjtkw9
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E16 | Krajně mezní příběhy I
+https://files.fm/down.php?i=k2b6dxept
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E17 | Zachraňte vojína Bendera
+https://files.fm/down.php?i=k2b6dxept
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E18 | Kvílení autodlaků
+https://files.fm/down.php?i=cegux72aa
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/dKDgNwd/Season-2.jpg" group-title="Futurama - Season 2",Futurama - S02E19 | Jak ztratit holku za 1000 let
+https://files.fm/down.php?i=wegwb6hag
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E01 | Amazonky to chtěj taky
+https://files.fm/down.php?i=fzbtzr9yk
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E02 | Vyhnání z Frye
+https://files.fm/down.php?i=4957es5xk
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E03 | Dva Santové tankují super
+https://files.fm/down.php?i=qw6s4jhpp
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E04 | Víc neštěstí než rozumu
+https://files.fm/down.php?i=qw6s4jhpp
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E05 | Bender mezi tučňáky
+https://files.fm/down.php?i=sqstq9duq
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E06 | Láska benderovská
+https://files.fm/down.php?i=t9fn48a65
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E07 | Tahle Země není pro blbý
+https://files.fm/down.php?i=8gm5g3ayx
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E08 | Humrův humor
+https://files.fm/down.php?i=tdtcgznrp
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E09 | Tucet sirotků
+https://files.fm/down.php?i=st9twv4pz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E10 | Pod kopyty bugolů
+https://files.fm/down.php?i=psfkkxg2u
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E11 | Roboti musejí být šílení
+https://files.fm/down.php?i=4d5wgsd5n
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E12 | Juniorské mistrovství zla
+https://files.fm/down.php?i=fk2m9v7wj
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E13 | Zpívání všechny chmury nahání
+https://files.fm/down.php?i=fyx9k368h
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E14 | Tak skáče čas
+https://files.fm/down.php?i=dpf8npbcy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E15 | Nebezpečné roboznámosti
+https://files.fm/down.php?i=yqvp6hkbv
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E16 | Liga výjimečných břídilů
+https://files.fm/down.php?i=8nj6k3ksj
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E17 | Pracant egyptský
+https://files.fm/down.php?i=tberbw54c
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E18 | Krajně mezní příběhy II
+https://files.fm/down.php?i=y7rq4h4a6
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E19 | Rozval Roswell
+https://files.fm/down.php?i=jqrxuu5vq
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E20 | Božský Bender
+https://files.fm/down.php?i=3zxvtv4dy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E21 | Burza bezcenných papírů
+https://files.fm/down.php?i=vbhfd3q87
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/PQxYNjG/Season-3.jpg" group-title="Futurama - Season 3",Futurama - S03E22 | Železný kuchař
+https://files.fm/down.php?i=wgvrwz4t3
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E01 | Zbouchnutej
+https://files.fm/down.php?i=7q2duhzep
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E02 | O původu Leely
+https://files.fm/down.php?i=mewt7u2n4
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E03 | Valentýnská odysea
+https://files.fm/down.php?i=7q9t5epdz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E04 | Temný raubíř
+https://files.fm/down.php?i=ejyxrqchd
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E05 | Jak chutná svoboda
+https://files.fm/down.php?i=gmnftczad
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E06 | Bendera by měli v televizi zakázat
+https://files.fm/down.php?i=qsf3cseg9
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E07 | Čtyři z rakety a pes
+https://files.fm/down.php?i=b6hfrwj87
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E08 | Nikdo to rád horké
+https://files.fm/down.php?i=aacthucch
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E09 | Leela běží o životy
+https://files.fm/down.php?i=aacthucch
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E10 | Fryův smysl života
+https://files.fm/down.php?i=hpamsnpez
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E11 | Kam se dosud žádný fanoušek nevydal
+https://files.fm/down.php?i=99kcwu2zu
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E12 | Žihadlo
+https://files.fm/down.php?i=8u9wy8gcn
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E13 | Benderové nepláčou
+https://files.fm/down.php?i=u75a8vzwd
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E14 | Ztraceno v upgradu
+https://files.fm/down.php?i=ck3nknwuc
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E15 | Krabice do neznáma
+https://files.fm/down.php?i=urpzxxcvs
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E16 | Tři sta babek
+https://files.fm/down.php?i=6thsaum77
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E17 | Afryodisiakum
+https://files.fm/down.php?i=jz34n2zu3
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/FHP1kHG/Season-4.jpg" group-title="Futurama - Season 4",Futurama - S04E18 | Smlouva s roboďáblem
+https://files.fm/down.php?i=3xc76e9zy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E01 | Benderovo parádní terno 1/4
+https://files.fm/down.php?i=xr8e2hjvc
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E02 | Benderovo parádní terno 2/4
+https://files.fm/down.php?i=5phekjh7d
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E03 | Benderovo parádní terno 3/4
+https://files.fm/down.php?i=5qcwe6d24
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E04 | Benderovo parádní terno 4/4
+https://files.fm/down.php?i=7cwptbnp8
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E05 | Milion a jedno chapadlo 1/4
+https://files.fm/down.php?i=m5h93zphz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E06 | Milion a jedno chapadlo 2/4
+https://files.fm/down.php?i=xmbb4py6t
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E07 | Milion a jedno chapadlo 3/4
+https://files.fm/down.php?i=tfegeuapx
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E08 | Milion a jedno chapadlo 4/4
+https://files.fm/down.php?i=n8nmgsd34
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E09 | Benderova hra 1/4
+https://files.fm/down.php?i=6npsy3fpa
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E10 | Benderova hra 2/4
+https://files.fm/down.php?i=3ua72366g
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E11 | Benderova hra 3/4
+https://files.fm/down.php?i=hph6kjqcy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E12 | Benderova hra 4/4
+https://files.fm/down.php?i=xhcdj345g
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E13 | Fialový trpaslík 1/4
+https://files.fm/down.php?i=7e5kwmtrs
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E14 | Fialový trpaslík 2/4
+https://files.fm/down.php?i=q2e8r6g3d
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E15 | Fialový trpaslík 3/4
+https://files.fm/down.php?i=ws35zf9wv
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/j3VrXRm/Season-5.jpg" group-title="Futurama - Season 5",Futurama - S05E16 | Fialový trpaslík 4/4
+https://files.fm/down.php?i=vnzwmnpuy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E01 | Znovuzrození
+https://files.fm/down.php?i=yzsw6s5gg
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E02 | Adam a Leela
+https://files.fm/down.php?i=3ztszmdhg
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E03 | Krutá aplikace
+https://files.fm/down.php?i=u4q3sdgpp
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E04 | Návrh Nekonečno
+https://files.fm/down.php?i=u5vyfamm3
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E05 | Šifra mistra Blbonarda
+https://files.fm/down.php?i=fnzt7e942
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E06 | Číslo pět nežije
+https://files.fm/down.php?i=9s8d3y4qf
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E07 | Lepší později než pozdě
+https://files.fm/down.php?i=zmusrbxw9
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E08 | Černý Diblík, bílý kocour
+https://files.fm/down.php?i=q59w2mqtz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E09 | Přírobověda
+https://files.fm/down.php?i=4p2qs7xr8
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E10 | Tělo mého přítele
+https://files.fm/down.php?i=6c36m6425
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E11 | Ndndsmiřitelné Lrrrozdíly
+https://files.fm/down.php?i=gh2tusu4y
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E12 | Mutanti se bouří
+https://files.fm/down.php?i=sma2vnckb
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E13 | Sváteční spektákl
+https://files.fm/down.php?i=35t4y5ce2
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E14 | Neutopie
+https://files.fm/down.php?i=2e7ctvkmd
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E15 | Benderama
+https://files.fm/down.php?i=8zxyxcx2g
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E16 | Krotitelé roboduchů
+https://files.fm/down.php?i=cfzshfqcq
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E17 | Fryority Report
+https://files.fm/down.php?i=n4j2bdg64
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E18 | Mlčení cvakátek
+https://files.fm/down.php?i=qng9ny9qb
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E19 | Malý kabelový kabaret
+https://files.fm/down.php?i=j4pdu45zh
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E20 | Čest rodiny Farnsworthů
+https://files.fm/down.php?i=pxh77yck9
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E21 | Möbius Dick
+https://files.fm/down.php?i=9yh8cjrbz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E22 | Jedno vejce do skla
+https://files.fm/down.php?i=uz7qfgybr
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E23 | Léčba Zoidbergem
+https://files.fm/down.php?i=jskpa27p9
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E24 | Bojovníci s rýmou
+https://files.fm/down.php?i=9ddx4ey6t
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E25 | Rychlé čipy
+https://files.fm/down.php?i=9xwja6ycu
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/rmKqZ8T/Season-6.jpg" group-title="Futurama - Season 6",Futurama - S06E26 | Reinkarnace
+https://files.fm/down.php?i=uqzgh466k
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E01 | Sexuální praktiky robotů
+https://files.fm/down.php?i=a7utt67g4
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E02 | Chyť mě za ruku
+https://files.fm/down.php?i=mquvntkbh
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E03 | Narodím se zítra
+https://files.fm/down.php?i=73v6hewb2
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E04 | Zloděj na pytel
+https://files.fm/down.php?i=vqtfsdscb
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E05 | Rozvod po mutantsku
+https://files.fm/down.php?i=5dbdhbsdj
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E06 | Ostudový dotek
+https://files.fm/down.php?i=s3y5p7tp6
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E07 | V boji proti stroji
+https://files.fm/down.php?i=eky76rr3h
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E08 | Tenkrát na Oktoberfestu
+https://files.fm/down.php?i=89x2zyw57
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E09 | Honba za svobodnou vůlí
+https://files.fm/down.php?i=fmsznv4s4
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E10 | Skoro poslední přání
+https://files.fm/down.php?i=x7st6w2jf
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E11 | Viva Mars Vegas
+https://files.fm/down.php?i=vqytmwbxq
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E12 | Hon na robolišku
+https://files.fm/down.php?i=epvyt6h95
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E13 | Přírodňárna
+https://files.fm/down.php?i=9r5ve425r
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E14 | Rychle a zploštile
+https://files.fm/down.php?i=7cdrchcha
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E15 | 15	Opičí úlet
+https://files.fm/down.php?i=nnb4hmjgy
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E16 | Tydýt mimozemšťan
+https://files.fm/down.php?i=fzd3748un
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E17 | Píseň železničáře
+https://files.fm/down.php?i=68jt4spbz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E18 | Hrátky s ohněm
+https://files.fm/down.php?i=z75yzy86k
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E19 | Sobotní zábavné dopoledne
+https://files.fm/down.php?i=tda79gsjk
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E20 | Kalkulon 2.0
+https://files.fm/down.php?i=th7v3n362
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E21 | Zadečku, vrať se
+https://files.fm/down.php?i=e48gb4f73
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E22 | Genům navzdory
+https://files.fm/down.php?i=cehr74yqz
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E23 | Hra o tóny
+https://files.fm/down.php?i=rbfv4j36r
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E24 | Vražda v Planet Expresu
+https://files.fm/down.php?i=keajqcpb2
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E25 | Rozum a čich
+https://files.fm/down.php?i=mfayuvyk7
+
+#EXTINF:-1,tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.ibb.co/myXvJ5w/Season-7.jpg" group-title="Futurama - Season 7",Futurama - S07E26 | Mezitím
+https://files.fm/down.php?i=hzuh4x3xw
 
 
 
