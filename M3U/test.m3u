@@ -19,3 +19,84 @@ http://109.74.144.130/live/senzitest/playlist.m3u8
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 #EXTINF: -1 tvg-id="TV Raj" tvg-name="TV Raj" tvg-logo="https://i.ibb.co/J3TT3bZ/TV-Raj.png" group-title="SK", TV Raj
 http://ottst05.flexitv.sk/2827-tv-pc.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/z4NMCjV/Nova.png" group-title="CZ", Nova
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/925Rmkq/Nova-2.png" group-title="CZ", Nova 2
+https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/dpSZ22v/Nova-Gold.png" group-title="CZ", Nova Gold
+https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/99VYDCc/Nova-Action.jpg" group-title="CZ", Nova Action
+https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Servers/Nova%20Action.m3u
+#EXTINF: -1 tvg-logo="https://i.ibb.co/rkL4pnC/Nova-Cinema.png" group-title="CZ", Nova Cinema
+https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/sRVbxTv/Elektrika-TV.jpg" group-title="CZ", Elektrika TV
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/1fbv9Qq/Ocko.png" group-title="CZ", Óčko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/g35N1VV/Ocko-Gold.gif" group-title="CZ", Óčko Gold
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/q9pwKJC/Ocko-Expres.png" group-title="CZ", Óčko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/HX9M2pS/Ocko-Star.png" group-title="CZ", Óčko STAR
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/8sQ8yxh/Polar.png" group-title="CZ", Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Fz92Lft/Prima.png" group-title="CZ", Prima [Requires Czech IP / Vyžaduje českou IP adresu / May Not Work]
+https://prima-ott-live-sec.ssl.cdn.cra.cz/QF3pN1TzKsu0kAIVG8ffrw==,1613318528/channels/prima_family/playlist-live_lq-live_mq-live_hq.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/c6jK5m8/Prima-Zoom.png" group-title="CZ", Prima ZOOM [Requires Czech IP / Vyžaduje českou IP adresu / May Not Work]
+https://prima-ott-live-sec.ssl.cdn.cra.cz/93J0JioDmMh-BTB-1ZX8jQ==,1613378405/channels/prima_zoom/playlist-live_lq-live_mq-live_hq.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/mHwJrq4/Prima-MAX.png" group-title="CZ", Prima MAX [Requires Czech IP / Vyžaduje českou IP adresu / May Not Work]
+https://prima-ott-live-sec.ssl.cdn.cra.cz/16PorkelynJall3ugcm5Iw==,1613378114/channels/prima_max/playlist-live_lq-live_mq-live_hq.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/0QxYtrR/Prima-Krimi.png" group-title="CZ", Prima Krimi [Requires Czech IP / Vyžaduje českou IP adresu / May Not Work]
+https://prima-ott-live-sec.ssl.cdn.cra.cz/edqN1mKJE0bw8FJV0xa5JA==,1613323286/channels/prima_krimi/playlist-live_lq-live_mq-live_hq.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Fh1dHCH/Prima-Cool.png" group-title="CZ", Prima Cool
+http://92.62.234.223/104/mystream.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/syZr536/Prima-Love.png" group-title="CZ", Prima Love
+http://92.62.234.223/101/mystream.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/gmNCrRD/CNN-Prima-News.png" group-title="CZ", CNN Prima News [May Not Work]
+https://prima-ott-live-sec.ssl.cdn.cra.cz/JHQv5RWCF4tYMsYVT0vFwg==,1613322427/channels/prima_cnn/playlist/cze/live_lq.m3u8?offsetSeconds=0&url=0
+#EXTINF: -1 tvg-logo="https://i.ibb.co/tzNHRp9/HunterTV.png" group-title="CZ", HunterTV
+http://www.huntertv.cz/live/4-playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/yqrcmvW/PrahaTV.png" group-title="CZ", Praha TV
+https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/z7fQ7yJ/TV-Noe.png" group-title="CZ", TV Noe
+https://w100.quickmedia.tv/prozeta-live04/_definst_/prozeta-live04.smil/Playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Nx2fR74/Slagr.png" group-title="CZ", Šlágr
+https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/WxDvCry/Slagr2.png" group-title="CZ", Šlágr 2
+http://92.62.234.233/slagr2.m3u
+#EXTINF: -1 tvg-logo="https://i.ibb.co/K0HR49p/TV-Natura.png" group-title="CZ", TV Natura
+http://media1.tvnatura.cz/live_out/1/live.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/ggWW1L0/VCTV.png" group-title="CZ", Východočeská TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF: -1 group-title="CZ", ------ May not work / Nemusí fungovať / Nemusí fungovat ------
+s
+#EXTINF: -1 tvg-logo="https://i.ibb.co/S7P1BzV/History.png" group-title="CZ", History
+https://tv.parrottv.tk/CZHistory.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/kV7sJjJ/AXN-Black.png" group-title="CZ", AXN Black
+https://tv.parrottv.tk/CZAXNBlack.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/P6x66vL/CS-Film.jpg" group-title="CZ", CS Film
+https://tv.parrottv.tk/CZFilm+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/c6jK5m8/Prima-Zoom.png" group-title="CZ", Prima Zoom
+https://tv.parrottv.tk/CZPrimaZoom.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/W2y92yL/Nat-Geo.png" group-title="CZ", Nat Geo
+https://tv.parrottv.tk/NatGeo.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/w6VKTVF/Nat-Geo-Wild.png" group-title="CZ", Nat Geo Wild
+https://tv.parrottv.tk/CZNatGeoWild.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/6W3t1Xh/HBO-HD.png" group-title="CZ", HBO
+https://tv.parrottv.tk/CZHBO.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/prCmrkc/HBO-2.png" group-title="CZ", HBO 2
+https://tv.parrottv.tk/CZHBO2.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/hW6fbbJ/HBO-3.png" group-title="CZ", HBO 3
+https://tv.parrottv.tk/CZHBO3.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/BzvrZWS/Fishing-Hunting.jpg" group-title="CZ", Fishing & Hunting
+https://tv.parrottv.tk/CZF&H.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/ZHnW13f/Nickelodeon.png" group-title="CZ", Nickelodeon
+https://tv.parrottv.tk/CZNickelodeon.n3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/Wnj2gpC/Disney-Channel.png" group-title="CZ", Disney Channel
+https://tv.parrottv.tk/CZDisney.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/G76hW8c/Boomerang.png" group-title="CZ", Boomerang
+https://tv.parrottv.tk/CZBoomerang.m3u8
