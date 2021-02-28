@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="SK Channels" tvg-name="SK Channels" tvg-chno="1" tvg-logo="https://i.ibb.co/2cH2kVB/SK.jpg" group-title="Select", SK Channels
-https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Channels/SK.m3u8
+https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Channels/SK.m3u
 #EXTINF: -1 tvg-id="CZ Channels" tvg-name="CZ Channels" tvg-chno="2" tvg-logo="https://i.ibb.co/mb6Q81H/CZ.jpg" group-title="Select", CZ Channels
 https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Channels/CZ.m3u
 #EXTINF: -1 tvg-id="DE Channels" tvg-name="DE Channels" tvg-chno="3" tvg-logo="https://i.ibb.co/6W5CN1r/DE.jpg" group-title="Select", DE Channels
