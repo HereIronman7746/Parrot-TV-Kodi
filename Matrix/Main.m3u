@@ -72,6 +72,8 @@ http://92.62.234.233/slagr2.m3u
 http://media1.tvnatura.cz/live_out/1/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/ggWW1L0/VCTV.png" group-title="CZ Channels", CZ: Východočeská TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF: -1 tvg-logo="https://i.ibb.co/LRfyxNG/TV-Morava.png" group-title="CZ Channels", CZ: TV Morava
+http://stream.redigy.cz:1934/tvm.flv?checkedby:hlscat.com
 #EXTINF: -1 group-title="CZ Channels", CZ: ------ May not work / Nemusí fungovať / Nemusí fungovat ------
 s
 #EXTINF: -1 tvg-logo="https://i.ibb.co/S7P1BzV/History.png" group-title="CZ Channels", CZ: History
