@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:0 type="playlist", CZ Channels
-https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Channels/CZ.m3u
-#EXTINF:0 type="playlist", SK Channels
-https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Channels/SK.m3u
