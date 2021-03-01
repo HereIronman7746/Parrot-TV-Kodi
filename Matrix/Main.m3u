@@ -2020,3 +2020,8 @@ https://files.fm/down.php?i=k8mpkg7kd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EN" tvg-language="English" tvg-logo="https://i.ibb.co/zN1MPXj/The-Windermere-Children.jpg" group-title="Movies",The Windermere Children [EN + CZ Tit] [2020]
 https://files.fm/down.php?i=r6fpnuwrz
 
+
+#EXTINF:0 type="playlist", CZ Channels
+https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Channels/CZ.m3u
+#EXTINF:0 type="playlist", SK Channels
+https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/M3U/Channels/SK.m3u
