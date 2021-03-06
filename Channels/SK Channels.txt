@@ -19,3 +19,15 @@ name= Senzi TV url= "http://109.74.144.130/live/senzitest/playlist.m3u8?" logo= 
 name= Televizia OSEM url= "http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8" logo= "https://i.ibb.co/wRG1nkt/TV-OSEM.png"
 
 name= TV Raj url= "http://ottst05.flexitv.sk/2827-tv-pc.m3u8" logo= "https://i.ibb.co/J3TT3bZ/TV-Raj.png"
+
+name= Bardejovská TV url= "rtmp://s1.media-planet.sk:80/live/bardejov1?checkedby:hlscat.com" logo= "https://i.ibb.co/CVrPbfy/BTV.jpg"
+
+name= KoŠice:Dnes url= "http://lb.streaming.sk/tvnasa/stream/playlist.m3u8?checkedby:hlscat.com" logo= "https://i.ibb.co/phBd44T/Kosice-Dnes.jpg"
+
+name= TV Nové Zámky url= "http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8?checkedby:hlscat.com" logo= "https://i.ibb.co/Y2XDLmH/NZTV.png"
+
+name= TV Reduta url= "rtmp://s1.media-planet.sk:80/live/reduta?checkedby:hlscat.com" logo= "https://i.ibb.co/S6snjM0/TVR.png"
+
+name= TV Ružinov url= "http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8?checkedby:hlscat.com" logo= "https://i.ibb.co/mzbMHpg/TVRU.png"
+
+name= TV Turzovka url= "rtmp://s1.media-planet.sk:80/live/turzovka?checkedby:hlscat.com" logo= "https://i.ibb.co/bmTMnr4/TVT.png"
