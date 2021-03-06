@@ -56,30 +56,46 @@ name= TV Morava url= "https://i.ibb.co/LRfyxNG/TV-Morava.png" logo= "http://stre
 
 name= ------ May not work / Nemusí fungovať / Nemusí fungovat ------ url= "g" logo= "g"
 
-name= History url= "https://tv.parrottv.tk/CZHistory.m3u8" logo= "https://i.ibb.co/S7P1BzV/History.png"
+name= Viasat History url= "http://bazarhd.online:80/307210113622/307210113622/84624?checkedby:hlscat.com" logo= "https://i.ibb.co/B2Z2QCj/Viasat-History.png"
 
-name= AXN Black url= "https://tv.parrottv.tk/CZAXNBlack.m3u8" logo= "https://i.ibb.co/kV7sJjJ/AXN-Black.png"
+name= UP Network url= "http://bazarhd.online:80/307210113622/307210113622/84682?checkedby:hlscat.com" logo= "https://i.ibb.co/q9xxpS7/UP-Net.png"
 
-name= CS Film url= "https://tv.parrottv.tk/CZFilm+" logo= "https://i.ibb.co/P6x66vL/CS-Film.jpg"
+name= Sport 2 HD url= "http://bazarhd.online:80/307210113622/307210113622/84645?checkedby:hlscat.com" logo= "https://i.ibb.co/6BR5Fg9/Sport-2.png"
 
-name= Prima Zoom url= "https://tv.parrottv.tk/CZPrimaZoom.m3u8" logo= "https://i.ibb.co/c6jK5m8/Prima-Zoom.png"
+name= Arena Sport url= "http://mail.vipmek.com:8800/565656/565656/6849?checkedby:hlscat.com" logo= "https://i.ibb.co/4fx74Ps/Arena-Sport.png"
 
-name= Nat Geo url= "https://tv.parrottv.tk/NatGeo.m3u8" logo= "https://i.ibb.co/W2y92yL/Nat-Geo.png"
+name= CORONA VIRUS INFO url= "http://bazarhd.online:80/307210113622/307210113622/84701?checkedby:hlscat.com" logo= "https://i.ibb.co/CzRyVyq/COv.png"
 
-name= Nat Geo Wild url= "https://tv.parrottv.tk/CZNatGeoWild.m3u8" logo= "https://i.ibb.co/w6VKTVF/Nat-Geo-Wild.png"
+name= CT 1 JM url= "http://bazarhd.online:80/307210113622/307210113622/84698?checkedby:hlscat.com" logo= "https://i.ibb.co/JQF22cj/CT-1.jpg"
 
-name= HBO url= "https://tv.parrottv.tk/CZHBO.m3u8" logo= "https://i.ibb.co/6W3t1Xh/HBO-HD.png"
+name= CT 1 SM url= "http://bazarhd.online:80/307210113622/307210113622/84697?checkedby:hlscat.com" logo= "https://i.ibb.co/JQF22cj/CT-1.jpg"
 
-name= HBO 2 url= "https://tv.parrottv.tk/CZHBO2.m3u8" logo= "https://i.ibb.co/prCmrkc/HBO-2.png"
+name= DISCOVERY url= "http://bazarhd.online:80/307210113622/307210113622/84628?checkedby:hlscat.com" logo= "https://i.ibb.co/8MvFXBh/Discovery.jpg"
 
-name= HBO 3 url= "https://tv.parrottv.tk/CZHBO3.m3u8" logo= "https://i.ibb.co/hW6fbbJ/HBO-3.png"
+name= Disney url= "http://bazarhd.online:80/307210113622/307210113622/84654?checkedby:hlscat.com" logo= "https://i.ibb.co/Wnj2gpC/Disney-Channel.png"
 
-name= Fishing & Hunting url= "https://tv.parrottv.tk/CZF&H.m3u8" logo= "https://i.ibb.co/BzvrZWS/Fishing-Hunting.jpg"
+name= Prima Comedy Central url= "http://bazarhd.online:80/307210113622/307210113622/84661?checkedby:hlscat.com" logo= "https://i.ibb.co/GnkDtnm/Comedy-Central.png"
 
-name= Nickelodeon url= "https://tv.parrottv.tk/CZNickelodeon.n3u8" logo= "https://i.ibb.co/ZHnW13f/Nickelodeon.png"
+name= Orange Sport url= "http://mail.vipmek.com:8800/565656/565656/6855?checkedby:hlscat.com" logo= "https://i.ibb.co/B4B0kmC/Orange-Sport.png"
 
-name= Disney Channel url= "https://tv.parrottv.tk/CZDisney.m3u8" logo= "https://i.ibb.co/Wnj2gpC/Disney-Channel.png"
+name= Nickelodeon url= "http://bazarhd.online:80/307210113622/307210113622/84651?checkedby:hlscat.com" logo= "https://i.ibb.co/ZHnW13f/Nickelodeon.png"
 
-name= Boomerang url= "https://tv.parrottv.tk/CZBoomerang.m3u8" logo= "https://i.ibb.co/G76hW8c/Boomerang.png"
+name= Nick Jr. url= "http://bazarhd.online:80/307210113622/307210113622/84652?checkedby:hlscat.com" logo= "https://i.ibb.co/Lkp5JXM/Nick-JR.png"
+
+name= Nick url= "http://ariaccess.com:80/ArisGladio/PartnerGladio/106771?checkedby:hlscat.com" logo= "https://i.ibb.co/km430sJ/Nick.png"
+
+name= Minimax url= "http://ariaccess.com:80/ArisGladio/PartnerGladio/106769?checkedby:hlscat.com" logo= "https://i.ibb.co/k2zsCbk/Minimax.png"
+
+name= MNAM TV url= "http://bazarhd.online:80/307210113622/307210113622/84689?checkedby:hlscat.com" logo= "https://i.ibb.co/0KMkNmT/mnam-tv.png"
+
+name= HBO url= "http://bazarhd.online:80/307210113622/307210113622/84669?checkedby:hlscat.com" logo= "https://i.ibb.co/6W3t1Xh/HBO-HD.png"
+
+name= CS Film url= "http://bazarhd.online:80/307210113622/307210113622/84678?checkedby:hlscat.com" logo= "https://i.ibb.co/P6x66vL/CS-Film.jpg"
+
+name= Filbox Plus url= "http://bazarhd.online:80/307210113622/307210113622/84675?checkedby:hlscat.com" logo= "https://i.ibb.co/Z85JtxT/Film-Box-Plus.jpg"
+
+name= Filmbox Premium url= "http://bazarhd.online:80/307210113622/307210113622/84674?checkedby:hlscat.com" logo= "https://i.ibb.co/2PcsfM1/Filmbox-Premium.png"
+
+name= Fishing & Hunting url= "http://bazarhd.online:80/307210113622/307210113622/84627?checkedby:hlscat.com" logo= "https://i.ibb.co/BzvrZWS/Fishing-Hunting.jpg"
 
 
