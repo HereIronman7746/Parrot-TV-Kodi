@@ -1,3 +1,3 @@
-name= You Are Not Using Latest Version. Latest Version Is 7.0.0 url= "g" logo= "https://i.ibb.co/yBR46zR/6-0-0.jpg"
+name= You Are Not Using Latest Version. url= "g" logo= "https://i.ibb.co/yBR46zR/6-0-0.jpg"
 name= Your Version Is 6.0.0 url= "g" logo= "https://i.ibb.co/yBR46zR/6-0-0.jpg"
 name= Please Go To https://l.parrottv.tk/Update Or https://parrottv.tk/Download.html url= "g" logo= "https://i.ibb.co/yBR46zR/6-0-0.jpg"
