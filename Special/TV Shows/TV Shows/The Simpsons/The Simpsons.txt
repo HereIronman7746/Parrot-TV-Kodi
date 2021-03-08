@@ -1,1 +1,1 @@
-
+name= Season 1 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%201.m3u" logo= "https://i.ibb.co/SvxqNg1/Season-1.jpg"
