@@ -1,3 +1,3 @@
 name= Season 1 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%201.m3u" logo= "https://i.ibb.co/SvxqNg1/Season-1.jpg"
 
-name= Season 12 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%2012.m3u" logo= "https://i.ibb.co/MhmKJNV/Season-2.jpg"
+name= Season 2 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%202.m3u" logo= "https://i.ibb.co/MhmKJNV/Season-2.jpg"
