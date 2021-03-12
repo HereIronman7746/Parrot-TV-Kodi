@@ -7,3 +7,9 @@ name= Season 3 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-T
 name= Season 4 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%204.m3u" logo= "https://i.ibb.co/W5NrCzj/Season-4.jpg"
 
 name= Season 5 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%205.m3u" logo= "https://i.ibb.co/TbHMrP9/Season-5.jpg"
+
+name= Season 6 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%206.m3u" logo= "https://i.ibb.co/HptH7xC/Season-6.jpg"
+
+name= Season 7 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%207.m3u" logo= "https://i.ibb.co/c8H34FL/Season-7.jpg"
+
+name= Season 8 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%208.m3u" logo= "https://i.ibb.co/9rLYZMB/Season-8.jpg"
