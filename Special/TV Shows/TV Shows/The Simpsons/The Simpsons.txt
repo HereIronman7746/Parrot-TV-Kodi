@@ -13,3 +13,5 @@ name= Season 6 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-T
 name= Season 7 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%207.m3u" logo= "https://i.ibb.co/c8H34FL/Season-7.jpg"
 
 name= Season 8 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%208.m3u" logo= "https://i.ibb.co/9rLYZMB/Season-8.jpg"
+
+name= Season 9 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%209.m3u" logo= "https://i.ibb.co/JQnjWGP/Season-9.jpg"
