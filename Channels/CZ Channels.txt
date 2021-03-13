@@ -20,19 +20,9 @@ name= Óčko STAR url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playl
 
 name= Polar TV url= "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8" logo= "https://i.ibb.co/8sQ8yxh/Polar.png"
 
-name= Prima [Requires Czech IP / Vyžaduje českou IP adresu] url= "https://prima-ott-live-sec.ssl.cdn.cra.cz/QF3pN1TzKsu0kAIVG8ffrw==,1613318528/channels/prima_family/playlist-live_lq-live_mq-live_hq.m3u8" logo= "https://i.ibb.co/Fz92Lft/Prima.png"
-
-name= Prima ZOOM [Requires Czech IP / Vyžaduje českou IP adresu] url= "https://prima-ott-live-sec.ssl.cdn.cra.cz/93J0JioDmMh-BTB-1ZX8jQ==,1613378405/channels/prima_zoom/playlist-live_lq-live_mq-live_hq.m3u8" logo= "https://i.ibb.co/c6jK5m8/Prima-Zoom.png"
-
-name= Prima MAX [Requires Czech IP / Vyžaduje českou IP adresu] url= "https://prima-ott-live-sec.ssl.cdn.cra.cz/16PorkelynJall3ugcm5Iw==,1613378114/channels/prima_max/playlist-live_lq-live_mq-live_hq.m3u8" logo= "https://i.ibb.co/mHwJrq4/Prima-MAX.png"
-
-name= Prima Krimi [Requires Czech IP / Vyžaduje českou IP adresu] url= "https://prima-ott-live-sec.ssl.cdn.cra.cz/edqN1mKJE0bw8FJV0xa5JA==,1613323286/channels/prima_krimi/playlist-live_lq-live_mq-live_hq.m3u8" logo= "https://i.ibb.co/0QxYtrR/Prima-Krimi.png"
-
 name= Prima Cool url= "http://92.62.234.223/104/mystream.m3u8" logo= "https://i.ibb.co/Fh1dHCH/Prima-Cool.png"
 
 name= Prima Love url= "http://92.62.234.223/101/mystream.m3u8" logo= "https://i.ibb.co/syZr536/Prima-Love.png"
-
-name= CNN Prima News url= "https://prima-ott-live-sec.ssl.cdn.cra.cz/JHQv5RWCF4tYMsYVT0vFwg==,1613322427/channels/prima_cnn/playlist/cze/live_lq.m3u8?offsetSeconds=0&url=0" logo= "https://i.ibb.co/gmNCrRD/CNN-Prima-News.png"
 
 name= HunterTV url= "http://www.huntertv.cz/live/4-playlist.m3u8" logo= "https://i.ibb.co/tzNHRp9/HunterTV.png"
 
@@ -50,7 +40,7 @@ name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "htt
 
 name= Východočeská TV url= "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:hlscat.com" logo= "https://i.ibb.co/ggWW1L0/VCTV.png"
 
-name= TV Morava url= "https://i.ibb.co/LRfyxNG/TV-Morava.png" logo= "http://stream.redigy.cz:1934/tvm.flv?checkedby:hlscat.com"
+name= TV Morava url= "https://i.ibb.co/LRfyxNG/TV-Morava.png" logo= "https://i.ibb.co/LRfyxNG/TV-Morava.png"
 
 
 
