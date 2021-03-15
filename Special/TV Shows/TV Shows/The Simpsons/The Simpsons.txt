@@ -22,5 +22,4 @@ name= Season 11 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-
 
 name= Season 12 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%2012.m3u" logo= "https://i.ibb.co/NYxW0mq/Season-12.jpg"
 
-
 name= Season 13 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%2013.m3u" logo= "https://i.ibb.co/cQ8QB9T/Season-13.jpg"
