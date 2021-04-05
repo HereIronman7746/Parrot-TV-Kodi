@@ -37,3 +37,15 @@ name= Season 18 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-
 name= Season 19 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%2019.m3u" logo= "https://i.ibb.co/r245Q9Z/Season-19.jpg"
 
 name= Season 20 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%2020.m3u" logo= "https://i.ibb.co/VtTzqMs/Season-20.jpg"
+
+name= Season 21 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%2021.m3u" logo= "https://i.ibb.co/XjCW1Qg/Season-21.jpg"
+
+name= Season 22 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%2022.m3u" logo= "https://i.ibb.co/gWT5yyq/Season-22.jpg"
+
+name= Season 23 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%2023.m3u" logo= "https://i.ibb.co/vB2MPnh/Season-23.jpg"
+
+name= Season 24 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%2024.m3u" logo= "https://i.ibb.co/2Mgsm0b/Season-24.jpg"
+
+name= Season 25 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%2025.m3u" logo= "https://i.ibb.co/FqwL1yy/Season-25.jpg"
+
+name= Season 26 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/The%20Simpsons/Season%2026.m3u" logo= "https://i.ibb.co/0cQh6ts/Season-26.jpg"
