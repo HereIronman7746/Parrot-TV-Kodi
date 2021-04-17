@@ -1,0 +1,5 @@
+name= Season 1 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Gravity%20Falls/Season%2001.m3u" logo= "https://i.ibb.co/9N68ws9/Season-1.jpg"
+
+name= Season 2 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Gravity%20Falls/Season%2002.m3u" logo= "https://i.ibb.co/HGHB1WP/Season-2.png"
+
+
