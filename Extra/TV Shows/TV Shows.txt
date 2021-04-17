@@ -1,1 +1,0 @@
-name= Tom a Jerry: Kolekce url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Tom%20and%20Jerry%20The%20Classic%20Collection/Tom%20And%20Jerry.m3u" logo= "https://i.ibb.co/T4Cd3vJ/Tom-a-Jerry-Kolekce.jpg"
