@@ -1,5 +1,5 @@
-name= Season 1 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Rick%20And%20Morty/Season%2001.m3u" logo= "g"
+name= Season 1 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Rick%20And%20Morty/Season%2001.m3u" logo= "https://i.ibb.co/hyY4T5y/Season-1.png"
 
-name= Season 2 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Rick%20And%20Morty/Season%2002.m3u" logo= "g"
+name= Season 2 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Rick%20And%20Morty/Season%2002.m3u" logo= "https://i.ibb.co/9VVRNbV/Season-2.jpg"
 
-name= Season 3 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Rick%20And%20Morty/Season%2003.m3u" logo= "g"
+name= Season 3 url= "https://raw.githubusercontent.com/ParrotDevelopers/Parrot-TV-Kodi/main/Special/TV%20Shows/TV%20Shows/Rick%20And%20Morty/Season%2003.m3u" logo= "https://i.ibb.co/QXvV3zB/Season-3.png"
