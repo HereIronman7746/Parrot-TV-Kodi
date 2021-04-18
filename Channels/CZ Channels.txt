@@ -20,10 +20,6 @@ name= Óčko STAR url= "http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playl
 
 name= Polar TV url= "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8" logo= "https://i.ibb.co/8sQ8yxh/Polar.png"
 
-name= Prima Cool url= "http://92.62.234.223/104/mystream.m3u8" logo= "https://i.ibb.co/Fh1dHCH/Prima-Cool.png"
-
-name= Prima Love url= "http://92.62.234.223/101/mystream.m3u8" logo= "https://i.ibb.co/syZr536/Prima-Love.png"
-
 name= HunterTV url= "http://www.huntertv.cz/live/4-playlist.m3u8" logo= "https://i.ibb.co/tzNHRp9/HunterTV.png"
 
 name= Praha TV url= "https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8" logo= "https://i.ibb.co/yqrcmvW/PrahaTV.png"
@@ -41,51 +37,3 @@ name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "htt
 name= Východočeská TV url= "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:hlscat.com" logo= "https://i.ibb.co/ggWW1L0/VCTV.png"
 
 name= TV Morava url= "https://i.ibb.co/LRfyxNG/TV-Morava.png" logo= "https://i.ibb.co/LRfyxNG/TV-Morava.png"
-
-
-
-name= ------ May not work / Nemusí fungovať / Nemusí fungovat ------ url= "g" logo= "g"
-
-name= Viasat History url= "http://bazarhd.online:80/307210113622/307210113622/84624?checkedby:hlscat.com" logo= "https://i.ibb.co/B2Z2QCj/Viasat-History.png"
-
-name= UP Network url= "http://bazarhd.online:80/307210113622/307210113622/84682?checkedby:hlscat.com" logo= "https://i.ibb.co/q9xxpS7/UP-Net.png"
-
-name= Sport 2 HD url= "http://bazarhd.online:80/307210113622/307210113622/84645?checkedby:hlscat.com" logo= "https://i.ibb.co/6BR5Fg9/Sport-2.png"
-
-name= Arena Sport url= "http://mail.vipmek.com:8800/565656/565656/6849?checkedby:hlscat.com" logo= "https://i.ibb.co/4fx74Ps/Arena-Sport.png"
-
-name= CORONA VIRUS INFO url= "http://bazarhd.online:80/307210113622/307210113622/84701?checkedby:hlscat.com" logo= "https://i.ibb.co/CzRyVyq/COv.png"
-
-name= CT 1 JM url= "http://bazarhd.online:80/307210113622/307210113622/84698?checkedby:hlscat.com" logo= "https://i.ibb.co/JQF22cj/CT-1.jpg"
-
-name= CT 1 SM url= "http://bazarhd.online:80/307210113622/307210113622/84697?checkedby:hlscat.com" logo= "https://i.ibb.co/JQF22cj/CT-1.jpg"
-
-name= DISCOVERY url= "http://bazarhd.online:80/307210113622/307210113622/84628?checkedby:hlscat.com" logo= "https://i.ibb.co/8MvFXBh/Discovery.jpg"
-
-name= Disney url= "http://bazarhd.online:80/307210113622/307210113622/84654?checkedby:hlscat.com" logo= "https://i.ibb.co/Wnj2gpC/Disney-Channel.png"
-
-name= Prima Comedy Central url= "http://bazarhd.online:80/307210113622/307210113622/84661?checkedby:hlscat.com" logo= "https://i.ibb.co/GnkDtnm/Comedy-Central.png"
-
-name= Orange Sport url= "http://mail.vipmek.com:8800/565656/565656/6855?checkedby:hlscat.com" logo= "https://i.ibb.co/B4B0kmC/Orange-Sport.png"
-
-name= Nickelodeon url= "http://bazarhd.online:80/307210113622/307210113622/84651?checkedby:hlscat.com" logo= "https://i.ibb.co/ZHnW13f/Nickelodeon.png"
-
-name= Nick Jr. url= "http://bazarhd.online:80/307210113622/307210113622/84652?checkedby:hlscat.com" logo= "https://i.ibb.co/Lkp5JXM/Nick-JR.png"
-
-name= Nick url= "http://ariaccess.com:80/ArisGladio/PartnerGladio/106771?checkedby:hlscat.com" logo= "https://i.ibb.co/km430sJ/Nick.png"
-
-name= Minimax url= "http://ariaccess.com:80/ArisGladio/PartnerGladio/106769?checkedby:hlscat.com" logo= "https://i.ibb.co/k2zsCbk/Minimax.png"
-
-name= MNAM TV url= "http://bazarhd.online:80/307210113622/307210113622/84689?checkedby:hlscat.com" logo= "https://i.ibb.co/0KMkNmT/mnam-tv.png"
-
-name= HBO url= "http://bazarhd.online:80/307210113622/307210113622/84669?checkedby:hlscat.com" logo= "https://i.ibb.co/6W3t1Xh/HBO-HD.png"
-
-name= CS Film url= "http://bazarhd.online:80/307210113622/307210113622/84678?checkedby:hlscat.com" logo= "https://i.ibb.co/P6x66vL/CS-Film.jpg"
-
-name= Filbox Plus url= "http://bazarhd.online:80/307210113622/307210113622/84675?checkedby:hlscat.com" logo= "https://i.ibb.co/Z85JtxT/Film-Box-Plus.jpg"
-
-name= Filmbox Premium url= "http://bazarhd.online:80/307210113622/307210113622/84674?checkedby:hlscat.com" logo= "https://i.ibb.co/2PcsfM1/Filmbox-Premium.png"
-
-name= Fishing & Hunting url= "http://bazarhd.online:80/307210113622/307210113622/84627?checkedby:hlscat.com" logo= "https://i.ibb.co/BzvrZWS/Fishing-Hunting.jpg"
-
-
