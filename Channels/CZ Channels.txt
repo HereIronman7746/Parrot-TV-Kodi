@@ -36,4 +36,4 @@ name= TV Natura url= "http://media1.tvnatura.cz/live_out/1/live.m3u8" logo= "htt
 
 name= Východočeská TV url= "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:hlscat.com" logo= "https://i.ibb.co/ggWW1L0/VCTV.png"
 
-name= TV Morava url= "https://i.ibb.co/LRfyxNG/TV-Morava.png" logo= "https://i.ibb.co/LRfyxNG/TV-Morava.png"
+name= TV Morava url= "https://hlscat.com/my_list/s/f0f7d1cae255f3d243cafe2f4764c9d5.m3u8" logo= "https://i.ibb.co/LRfyxNG/TV-Morava.png"
