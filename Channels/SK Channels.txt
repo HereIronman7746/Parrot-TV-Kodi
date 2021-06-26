@@ -6,6 +6,8 @@ name= JoJ Family url= "http://nn.geo.joj.sk/hls/family-360.m3u8" logo= "https://
 
 name= Wau url= "https://nn.geo.joj.sk/live/wau-index.m3u8?fluxustv.m3u8" logo= "https://i.ibb.co/kmDHqy3/WAU.png"
 
+name= Markiza url= "https://list.iptvcat.com/my_list/s/fc11d89f9c1bcfeb43a472f39f422970.m3u8" logo= "https://i.ibb.co/3Wg9wyj/Markiza.png"
+
 name= TA3 url= "https://tv.parrottv.tk/TA3.m3u8" logo= "https://i.ibb.co/vcSFT8C/TA3.png"
 
 name= Fashion TV url= "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8" logo= "https://i.ibb.co/XzBpYkL/Fashion-TV.png"
