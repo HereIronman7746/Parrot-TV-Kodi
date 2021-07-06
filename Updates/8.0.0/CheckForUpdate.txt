@@ -1,3 +1,4 @@
+ name= Theres an error value may not be right you shold check it in My Addons and if it is lower than latest from parrot.tv. url= "g" logo= "https://i.ibb.co/3NGkzbt/8-0-0.jpg"
 name= You Are Not Using Latest Version. url= "g" logo= "https://i.ibb.co/3NGkzbt/8-0-0.jpg"
 name= Your Version Is 8.0.0 url= "g" logo= "https://i.ibb.co/3NGkzbt/8-0-0.jpg"
 name= Please Go To https://l.parrottv.tk/Update Or https://parrottv.tk/Download.html url= "g" logo= "https://i.ibb.co/3NGkzbt/8-0-0.jpg"
